@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Nimrod Rak",
+			"Steeve815",
+			"YaronSh"
+		]
+	},
+	"skinname-darkages": "זיקית",
+	"darkages-desc": "מעטפת גמישה ומסתגלת בעזרת Bootstrap 4",
+	"darkages-loggedin": "נכנסת בשם $1.",
+	"darkages-notloggedin": "לא נכנסת",
+	"darkages-newmessages": "יש לך הודעות חדשות",
+	"darkages-nonewmessages": "אין לך הודעות חדשות.",
+	"darkages-search-aria-label": "מעבר לדף",
+	"darkages-toggler": "תפריט"
+}

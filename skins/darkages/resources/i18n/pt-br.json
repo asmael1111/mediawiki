@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"!Silent",
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad",
+			"Felipe L. Ewald",
+			"Jaideraf"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Um tema responsivo altamente flexível usando o Bootstrap 4",
+	"darkages-loggedin": "Você está logado como $1.",
+	"darkages-notloggedin": "Você não está logado.",
+	"darkages-newmessages": "Você tem novas mensagens.",
+	"darkages-nonewmessages": "Você não tem novas mensagens.",
+	"darkages-search-aria-label": "Ir para página",
+	"darkages-toggler": "Menu"
+}

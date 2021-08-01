@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Nimrod Rak",
+			"Steeve815",
+			"YaronSh"
+		]
+	},
+	"skinname-changeling": "זיקית",
+	"changeling-desc": "מעטפת גמישה ומסתגלת בעזרת Bootstrap 4",
+	"changeling-loggedin": "נכנסת בשם $1.",
+	"changeling-notloggedin": "לא נכנסת",
+	"changeling-newmessages": "יש לך הודעות חדשות",
+	"changeling-nonewmessages": "אין לך הודעות חדשות.",
+	"changeling-search-aria-label": "מעבר לדף",
+	"changeling-toggler": "תפריט"
+}

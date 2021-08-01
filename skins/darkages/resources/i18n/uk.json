@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alex Khimich",
+			"DDPAT",
+			"Ата"
+		]
+	},
+	"skinname-darkages": "Хамелеон",
+	"darkages-desc": "Тема оформлення \"Хамелеон\"",
+	"darkages-loggedin": "Ви увійшли як  $1.",
+	"darkages-notloggedin": "Ви не ввійшли в систему",
+	"darkages-newmessages": "У Вас є нові повідомлення.",
+	"darkages-nonewmessages": "У вас немає нових повідомлень.",
+	"darkages-search-aria-label": "Перейти на сторінку",
+	"darkages-toggler": "Меню"
+}

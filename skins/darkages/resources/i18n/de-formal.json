@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"darkages-loggedin": "Sie sind als $1 angemeldet.",
+	"darkages-notloggedin": "Sie sind nicht angemeldet.",
+	"darkages-newmessages": "Sie haben neue Nachrichten.",
+	"darkages-nonewmessages": "Sie haben keine neuen Nachrichten.",
+	"darkages-search-aria-label": "Gehen Sie zu Seite"
+}

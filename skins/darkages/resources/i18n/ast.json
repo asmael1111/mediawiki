@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "El tema Darkages.",
+	"darkages-loggedin": "Aniciasti sesión como $1.",
+	"darkages-notloggedin": "Nun aniciasti sesión",
+	"darkages-newmessages": "Tienes mensaxes nuevos.",
+	"darkages-nonewmessages": "Nun tienes mensaxes nuevos.",
+	"darkages-search-aria-label": "Dir a páxina"
+}

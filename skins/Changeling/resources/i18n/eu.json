@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikel Ibaiba",
+			"Subi",
+			"Xabier Armendaritz"
+		]
+	},
+	"skinname-changeling": "Kamaleoia",
+	"changeling-desc": "Kamaleoiaren azala",
+	"changeling-loggedin": "Saioa hasita duzu, $1 erabiltzaile izenarekin.",
+	"changeling-notloggedin": "Ez duzu saioa hasi.",
+	"changeling-newmessages": "Mezu berriak dituzu",
+	"changeling-nonewmessages": "Ez duzu mezu berririk"
+}

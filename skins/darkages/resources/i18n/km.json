@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"darkages-loggedin": "អ្នកកំពុងកត់ឈ្មោះចូលជា $1។",
+	"darkages-notloggedin": "អ្នកមិនទាន់កត់ឈ្មោះចូលទេ។",
+	"darkages-newmessages": "អ្នកមានសារថ្មីៗ។",
+	"darkages-nonewmessages": "អ្នកគ្មានសារថ្មីៗទេ។"
+}

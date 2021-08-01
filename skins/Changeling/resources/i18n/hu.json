@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"skinname-changeling": "Kaméleon",
+	"changeling-desc": "Egy rendkívül rugalmas alkalmazkodó felület Bootstrap 4-gyel",
+	"changeling-loggedin": "Be vagy jelentkezve $1 néven.",
+	"changeling-notloggedin": "Nem vagy bejelentkezve.",
+	"changeling-newmessages": "Új üzeneteid vannak.",
+	"changeling-nonewmessages": "Nincsenek új üzeneteid."
+}

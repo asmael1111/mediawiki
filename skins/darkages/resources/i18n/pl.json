@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matma Rex",
+			"Rail",
+			"Railfail536",
+			"Ty221"
+		]
+	},
+	"skinname-darkages": "Kameleon",
+	"darkages-desc": "Wysoce elastyczna, responsywna skórka używająca technologii Bootstrap 4",
+	"darkages-loggedin": "Jesteś zalogowany jako $1.",
+	"darkages-notloggedin": "Nie jesteś zalogowany",
+	"darkages-newmessages": "Masz nowe wiadomości.",
+	"darkages-nonewmessages": "Nie masz nowych wiadomości.",
+	"darkages-search-aria-label": "Przejdź do strony"
+}

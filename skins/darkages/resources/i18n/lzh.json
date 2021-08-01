@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"SolidBlock"
+		]
+	},
+	"darkages-loggedin": "君登與$1。",
+	"darkages-notloggedin": "未入簿。",
+	"darkages-newmessages": "新訊",
+	"darkages-nonewmessages": "無新訊"
+}

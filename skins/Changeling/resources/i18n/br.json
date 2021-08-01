@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"skinname-changeling": "Kameleon",
+	"changeling-desc": "Gwisk Kameleon",
+	"changeling-loggedin": "Kevreet oc'h evel $1.",
+	"changeling-notloggedin": "N'hoc'h ket kevreet.",
+	"changeling-newmessages": "Kemennadennoù nevez hoc'h eus.",
+	"changeling-nonewmessages": "N'hoc'h eus kemennadenn nevez ."
+}

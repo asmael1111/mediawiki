@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftab1995",
+			"Aftabuzzaman",
+			"আজিজ",
+			"আফতাবুজ্জামান"
+		]
+	},
+	"darkages-desc": "বহুরূপী আবরণ",
+	"darkages-loggedin": "আপনি $1 হিসাবে প্রবেশ করেছেন।",
+	"darkages-notloggedin": "আপনি প্রবেশ করেন নি",
+	"darkages-newmessages": "আপনার নতুন বার্তা এসেছে।",
+	"darkages-nonewmessages": "আপনার কাছে কোনও নতুন বার্তা নেই।"
+}

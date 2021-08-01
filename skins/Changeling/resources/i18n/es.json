@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"DannyS712",
+			"Fitoschido"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "La apariencia Changeling.",
+	"changeling-loggedin": "Has accedido como $1.",
+	"changeling-notloggedin": "No has accedido",
+	"changeling-newmessages": "Tienes mensajes nuevos.",
+	"changeling-nonewmessages": "No tienes mensajes nuevos.",
+	"changeling-search-aria-label": "Ir a la página",
+	"changeling-toggler": "Menú"
+}

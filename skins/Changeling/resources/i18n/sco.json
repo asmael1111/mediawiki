@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"changeling-desc": "The Changeling skin.",
+	"changeling-loggedin": "Ye'r loggit in aes $1.",
+	"changeling-notloggedin": "Ye'r no loggit in",
+	"changeling-newmessages": "Ye hae new messages.",
+	"changeling-nonewmessages": "Ye'v nae new messages."
+}

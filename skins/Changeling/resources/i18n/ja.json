@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"2nd-player",
+			"Shirayuki",
+			"SkyDaisy9",
+			"Yusuke1109"
+		]
+	},
+	"skinname-changeling": "カメレオン",
+	"changeling-desc": "Bootstrap 4 を使用した柔軟性の高いレスポンシブ外装",
+	"changeling-loggedin": "$1 としてログインしています。",
+	"changeling-notloggedin": "ログインしていません。",
+	"changeling-newmessages": "新着メッセージがあります。",
+	"changeling-nonewmessages": "新しいメッセージはありません。",
+	"changeling-search-aria-label": "ページへ移動"
+}

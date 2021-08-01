@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazimagomedov",
+			"Omarov M."
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Bootstrap 4 хІалтІизабигун бугеб цІакъ хьетІулеб ва жаваб кьолеб тема",
+	"changeling-loggedin": "Мун $1 гIадин жаниве лъугьана",
+	"changeling-notloggedin": "Мун жаниве лъугьун гьечIо",
+	"changeling-newmessages": "Духъе цIиял рисалатал руго.",
+	"changeling-nonewmessages": "Духъе цIиял рисалатал гьечIо."
+}

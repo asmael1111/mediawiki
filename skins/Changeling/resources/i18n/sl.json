@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"changeling-desc": "Zelo prilagodljiva odzivna preobleka, ki uporablja Bootstrap 4",
+	"changeling-loggedin": "Prijavljeni ste kot $1.",
+	"changeling-notloggedin": "Niste prijavljeni.",
+	"changeling-newmessages": "Imate nova sporočila.",
+	"changeling-nonewmessages": "Nimate novih sporočil."
+}

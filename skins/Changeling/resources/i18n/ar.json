@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khaled",
+			"Meno25",
+			"ديفيد"
+		]
+	},
+	"skinname-changeling": "حرباء",
+	"changeling-desc": "واجهة مرنة جدا باستخدام Bootstrap 4",
+	"changeling-loggedin": "تم تسجيل دخولك كـ $1.",
+	"changeling-notloggedin": "لم تسجل الدخول.",
+	"changeling-newmessages": "لديك رسالة جديدة.",
+	"changeling-nonewmessages": "ليست لديك رسائل جديدة.",
+	"changeling-search-aria-label": "انتقل إلى صفحة"
+}

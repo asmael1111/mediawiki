@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aviator"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Rupa Darkages",
+	"darkages-loggedin": "Anda telah log masuk sebagai $1.",
+	"darkages-notloggedin": "Anda belum log masuk",
+	"darkages-newmessages": "Anda mempunyai pesanan baru.",
+	"darkages-nonewmessages": "Anda tidak mempunyai pesanan baru."
+}

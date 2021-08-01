@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geonuch"
+		]
+	},
+	"skinname-changeling": "คาเมเลียน",
+	"changeling-desc": "สกินคาเมเลียน",
+	"changeling-loggedin": "คุณเข้าสู่ระบบในชื่อ $1",
+	"changeling-notloggedin": "คุณยังไม่ได้เข้าสู่ระบบ",
+	"changeling-newmessages": "คุณมีสารใหม่",
+	"changeling-nonewmessages": "คุณยังไม่มีสารใหม่"
+}

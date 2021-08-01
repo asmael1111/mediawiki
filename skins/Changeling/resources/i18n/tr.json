@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Hedda",
+			"Sayginer"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Bootstrap 4 kullanarak oldukça esnek ve hassas bir görünüm",
+	"changeling-loggedin": "$1 olarak oturum açtınız.",
+	"changeling-notloggedin": "Oturum açmadınız.",
+	"changeling-newmessages": "Yeni mesajınız var.",
+	"changeling-nonewmessages": "Yeni mesajınız yok.",
+	"changeling-search-aria-label": "Sayfaya git",
+	"changeling-toggler": "Menü"
+}

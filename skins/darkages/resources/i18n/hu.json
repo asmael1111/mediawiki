@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"skinname-darkages": "Kaméleon",
+	"darkages-desc": "Egy rendkívül rugalmas alkalmazkodó felület Bootstrap 4-gyel",
+	"darkages-loggedin": "Be vagy jelentkezve $1 néven.",
+	"darkages-notloggedin": "Nem vagy bejelentkezve.",
+	"darkages-newmessages": "Új üzeneteid vannak.",
+	"darkages-nonewmessages": "Nincsenek új üzeneteid."
+}

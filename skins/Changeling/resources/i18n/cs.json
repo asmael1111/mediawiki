@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaroslav Cerny",
+			"Mormegil"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Velmi pružný responzivní vzhled používající Bootstrap 4",
+	"changeling-loggedin": "Jste {{GENDER:|přihlášen|přihlášena|přihlášeni}} jako $1.",
+	"changeling-notloggedin": "Nejste přihlášeni",
+	"changeling-newmessages": "Máte nové zprávy.",
+	"changeling-nonewmessages": "Nemáte žádné nové zprávy.",
+	"changeling-search-aria-label": "Jít na stránku"
+}

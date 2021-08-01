@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"skinname-changeling": "Bunglon",
+	"changeling-desc": "Kules résponsip sané sanget pléksibel nganggén Bootstrap 4",
+	"changeling-loggedin": "Ida sampun manjing log manados $1.",
+	"changeling-notloggedin": "Ida durung manjing log",
+	"changeling-newmessages": "Ragané madué séwala anyar",
+	"changeling-nonewmessages": "Ragané nénten madué séwala anyar.",
+	"changeling-search-aria-label": "Nuju kaca"
+}

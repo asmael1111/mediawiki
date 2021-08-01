@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vahe Gharakhanyan"
+		]
+	},
+	"darkages-loggedin": "Դուք մտել եք որպես $1:",
+	"darkages-notloggedin": "Դուք չեք մտել համակարգ:",
+	"darkages-newmessages": "Դուք նոր ուղերձներ ունեք:",
+	"darkages-nonewmessages": "Դուք նոր ուղերձներ չունեք:"
+}

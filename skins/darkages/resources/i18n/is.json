@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"skinname-darkages": "Kamelljón",
+	"darkages-desc": "Kamelljón-skinnið",
+	"darkages-loggedin": "Þú ert skráð/ur inn sem $1",
+	"darkages-notloggedin": "Þú ert ekki skráð/ur inn.",
+	"darkages-newmessages": "Þú átt ný skilaboð.",
+	"darkages-nonewmessages": "Þú átt engin ný skilaboð."
+}

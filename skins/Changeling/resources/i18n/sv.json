@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Ett mycket flexibelt och responsivt utseende som använder Bootstrap 4",
+	"changeling-loggedin": "Du är inloggad som $1.",
+	"changeling-notloggedin": "Du är inte inloggad.",
+	"changeling-newmessages": "Du har nya meddelanden.",
+	"changeling-nonewmessages": "Du har inga nya meddelanden.",
+	"changeling-search-aria-label": "Gå till sida",
+	"changeling-toggler": "Meny"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya",
+			"Daud I.F. Argana",
+			"Diki Ananta",
+			"Sumbukompor"
+		]
+	},
+	"skinname-changeling": "Bunglon",
+	"changeling-desc": "Kulit responsif yang sangat fleksibel menggunakan Bootstrap 4",
+	"changeling-loggedin": "Anda telah masuk log sebagai $1.",
+	"changeling-notloggedin": "Anda belum masuk log",
+	"changeling-newmessages": "Anda memiliki pesan baru.",
+	"changeling-nonewmessages": "Anda tidak memiliki pesan baru.",
+	"changeling-search-aria-label": "Tuju ke halaman"
+}

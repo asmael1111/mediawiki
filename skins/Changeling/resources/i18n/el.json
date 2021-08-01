@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giannaras99",
+			"Glavkos",
+			"Nikosguard"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Ένα εξαιρετικά ευέλικτο Θέμα εμφάνισης που ανταποκρίνεται χρησιμοποιώντας το Bootstrap 4.",
+	"changeling-loggedin": "Έχετε συνδεθεί ως $1.",
+	"changeling-notloggedin": "Δεν έχετε συνδεθεί",
+	"changeling-newmessages": "Έχετε νέα μηνύματα.",
+	"changeling-nonewmessages": "Δεν έχετε νέα μηνύματα.",
+	"changeling-toggler": "Μενού"
+}

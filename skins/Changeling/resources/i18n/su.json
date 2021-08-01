@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kandar",
+			"Uchup19"
+		]
+	},
+	"skinname-changeling": "Londok",
+	"changeling-desc": "Kulit Londok.",
+	"changeling-loggedin": "Anjeun asup log salaku $1.",
+	"changeling-notloggedin": "Anjeun can asup log",
+	"changeling-newmessages": "Aya obrolan anyar.",
+	"changeling-nonewmessages": "Taya obrolan anyar."
+}

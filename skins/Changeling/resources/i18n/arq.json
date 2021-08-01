@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda",
+			"Oldstoneage"
+		]
+	},
+	"changeling-desc": "تصميم التاتا",
+	"changeling-loggedin": "راك سجلت دخلتك كـ $1.",
+	"changeling-notloggedin": "ما راكش مسجّل الدخول تاعك.",
+	"changeling-newmessages": "عندك براوات جدُد.",
+	"changeling-nonewmessages": "ما عندكش براوات جدُد."
+}

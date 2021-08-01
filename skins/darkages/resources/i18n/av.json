@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazimagomedov",
+			"Omarov M."
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Bootstrap 4 хІалтІизабигун бугеб цІакъ хьетІулеб ва жаваб кьолеб тема",
+	"darkages-loggedin": "Мун $1 гIадин жаниве лъугьана",
+	"darkages-notloggedin": "Мун жаниве лъугьун гьечIо",
+	"darkages-newmessages": "Духъе цIиял рисалатал руго.",
+	"darkages-nonewmessages": "Духъе цIиял рисалатал гьечIо."
+}

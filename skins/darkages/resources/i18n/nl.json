@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Het uiterlijk Darkages",
+	"darkages-loggedin": "U bent aangemeld als $1 .",
+	"darkages-notloggedin": "U bent niet aangemeld",
+	"darkages-newmessages": "U hebt nieuwe berichten.",
+	"darkages-nonewmessages": "U hebt geen nieuwe berichten.",
+	"darkages-search-aria-label": "Naar pagina gaan"
+}

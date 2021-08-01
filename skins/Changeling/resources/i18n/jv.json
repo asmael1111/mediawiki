@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"skinname-changeling": "Bunglon",
+	"changeling-desc": "Ules bunglon",
+	"changeling-loggedin": "Panjenengan mlebu log minangka $1.",
+	"changeling-notloggedin": "Panjenengan durung mlebu log",
+	"changeling-newmessages": "Panjenengan éntuk layang anyar.",
+	"changeling-nonewmessages": "Panjenengan ora duwé layang anyar."
+}

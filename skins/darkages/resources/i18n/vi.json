@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"skinname-darkages": "Tắc kè hoa",
+	"darkages-desc": "Giao diện Tắc kè hoa",
+	"darkages-loggedin": "Bạn đã đăng nhập với tên $1.",
+	"darkages-notloggedin": "Bạn chưa đăng nhập",
+	"darkages-newmessages": "Bạn có tin nhắn mới.",
+	"darkages-nonewmessages": "Bạn không có tin nhắn mới."
+}

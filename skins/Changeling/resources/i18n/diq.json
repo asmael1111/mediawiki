@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi",
+			"Gorizon",
+			"Kumkumuk",
+			"Mirzali",
+			"Orbot707"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Bootstrap 4 gureynayışiya xeylê namnaye u cesasyew asayış",
+	"changeling-loggedin": "$1 nameya şıma ronıştış akerd o.",
+	"changeling-notloggedin": "Şıma ronıştış nêakerd o.",
+	"changeling-newmessages": "Şımaré mesaco newe esto",
+	"changeling-nonewmessages": "Şımaré mesaco newe çıni yo",
+	"changeling-search-aria-label": "Şo pele"
+}

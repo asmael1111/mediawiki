@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephan Gambke"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "A highly flexible responsive skin using Bootstrap 4",
+	"darkages-loggedin": "You are logged in as $1.",
+	"darkages-notloggedin": "You are not logged in.",
+	"darkages-newmessages": "You have new messages.",
+	"darkages-nonewmessages": "You have no new messages.",
+	"darkages-search-aria-label": "Go to page",
+	"darkages-toggler": "Menu"
+}

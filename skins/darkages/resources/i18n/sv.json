@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Ett mycket flexibelt och responsivt utseende som använder Bootstrap 4",
+	"darkages-loggedin": "Du är inloggad som $1.",
+	"darkages-notloggedin": "Du är inte inloggad.",
+	"darkages-newmessages": "Du har nya meddelanden.",
+	"darkages-nonewmessages": "Du har inga nya meddelanden.",
+	"darkages-search-aria-label": "Gå till sida",
+	"darkages-toggler": "Meny"
+}

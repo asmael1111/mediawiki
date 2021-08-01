@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geonuch"
+		]
+	},
+	"skinname-darkages": "คาเมเลียน",
+	"darkages-desc": "สกินคาเมเลียน",
+	"darkages-loggedin": "คุณเข้าสู่ระบบในชื่อ $1",
+	"darkages-notloggedin": "คุณยังไม่ได้เข้าสู่ระบบ",
+	"darkages-newmessages": "คุณมีสารใหม่",
+	"darkages-nonewmessages": "คุณยังไม่มีสารใหม่"
+}

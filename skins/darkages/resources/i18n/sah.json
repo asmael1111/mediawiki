@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"HalanTul"
+		]
+	},
+	"darkages-desc": "Darkages.",
+	"darkages-loggedin": "$1 аатынан киирбиккин.",
+	"darkages-notloggedin": "Бэлиэ-аатынан киирэ иликкин.",
+	"darkages-newmessages": "Эйиэхэ саҥа сурук кэлбит.",
+	"darkages-nonewmessages": "Саҥа сурук кэлэ илик."
+}

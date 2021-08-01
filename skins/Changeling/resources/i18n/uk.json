@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alex Khimich",
+			"DDPAT",
+			"Ата"
+		]
+	},
+	"skinname-changeling": "Хамелеон",
+	"changeling-desc": "Тема оформлення \"Хамелеон\"",
+	"changeling-loggedin": "Ви увійшли як  $1.",
+	"changeling-notloggedin": "Ви не ввійшли в систему",
+	"changeling-newmessages": "У Вас є нові повідомлення.",
+	"changeling-nonewmessages": "У вас немає нових повідомлень.",
+	"changeling-search-aria-label": "Перейти на сторінку",
+	"changeling-toggler": "Меню"
+}

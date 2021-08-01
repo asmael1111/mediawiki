@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Un apparentia reactive e multo flexibile que usa Bootstrap 4",
+	"changeling-loggedin": "Tu ha aperite session como $1.",
+	"changeling-notloggedin": "Tu non ha aperite session",
+	"changeling-newmessages": "Tu ha nove messages.",
+	"changeling-nonewmessages": "Tu non ha nove messages.",
+	"changeling-search-aria-label": "Vader al pagina",
+	"changeling-toggler": "Menu"
+}

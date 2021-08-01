@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Belkacem77"
+		]
+	},
+	"skinname-changeling": "Tata",
+	"changeling-desc": "Asentel n ucebbeḥ Tata",
+	"changeling-loggedin": "Teqqneḍ s yisem $1.",
+	"changeling-notloggedin": "Ur teqqined ara.",
+	"changeling-newmessages": "Ɣur-k iznan imaynuten.",
+	"changeling-nonewmessages": "Ur ɣur-k ara iznan imaynuten."
+}

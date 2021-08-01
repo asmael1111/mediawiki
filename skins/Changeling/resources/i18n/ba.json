@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sagan",
+			"Рустам Нурыев"
+		]
+	},
+	"changeling-desc": "Changeling биҙәү темаһы.",
+	"changeling-loggedin": "Һеҙ $1 булып танылғанһығыҙ.",
+	"changeling-notloggedin": "Һеҙ танылмағанһығыҙ.",
+	"changeling-newmessages": "Һеҙгә яңы хәбәрҙәр бар",
+	"changeling-nonewmessages": "Һеҙгә яңы хәбәрҙәр юҡ."
+}

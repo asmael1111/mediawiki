@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"changeling-desc": "L’aparéncia Cameleon.",
+	"changeling-loggedin": "Sètz connectat en tant que $1.",
+	"changeling-notloggedin": "Sètz pas connectat.",
+	"changeling-newmessages": "Avètz de messatges novèls",
+	"changeling-nonewmessages": "Avètz pas cap de messatges novèls."
+}

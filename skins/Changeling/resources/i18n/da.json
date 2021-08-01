@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton",
+			"Saederup92"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Temaet Changeling",
+	"changeling-loggedin": "Du er logget ind som $1.",
+	"changeling-notloggedin": "Du er ikke logget ind.",
+	"changeling-newmessages": "Du har nye beskeder.",
+	"changeling-nonewmessages": "Du har ingen nye beskeder.",
+	"changeling-search-aria-label": "Gå til side"
+}

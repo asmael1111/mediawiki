@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"StanProg"
+		]
+	},
+	"skinname-darkages": "Хамелеон",
+	"darkages-desc": "Много гъвкав и адаптивен облик използващ Bootstrap 4",
+	"darkages-loggedin": "Вие сте влезли като $1.",
+	"darkages-notloggedin": "Вие не сте влезли в системата",
+	"darkages-newmessages": "Имате нови съобщения.",
+	"darkages-nonewmessages": "Нямате нови съобщения.",
+	"darkages-search-aria-label": "Към страницата"
+}

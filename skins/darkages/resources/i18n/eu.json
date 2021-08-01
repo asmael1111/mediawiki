@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikel Ibaiba",
+			"Subi",
+			"Xabier Armendaritz"
+		]
+	},
+	"skinname-darkages": "Kamaleoia",
+	"darkages-desc": "Kamaleoiaren azala",
+	"darkages-loggedin": "Saioa hasita duzu, $1 erabiltzaile izenarekin.",
+	"darkages-notloggedin": "Ez duzu saioa hasi.",
+	"darkages-newmessages": "Mezu berriak dituzu",
+	"darkages-nonewmessages": "Ez duzu mezu berririk"
+}

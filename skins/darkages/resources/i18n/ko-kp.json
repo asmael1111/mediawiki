@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Delim"
+		]
+	},
+	"darkages-loggedin": "$1님으로 가입하고있습니다.",
+	"darkages-notloggedin": "가입하고있지 않습니다.",
+	"darkages-newmessages": "새 통보문이 있습니다.",
+	"darkages-nonewmessages": "새 통보문이 없습니다."
+}

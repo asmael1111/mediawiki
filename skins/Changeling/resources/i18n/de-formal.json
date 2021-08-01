@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"changeling-loggedin": "Sie sind als $1 angemeldet.",
+	"changeling-notloggedin": "Sie sind nicht angemeldet.",
+	"changeling-newmessages": "Sie haben neue Nachrichten.",
+	"changeling-nonewmessages": "Sie haben keine neuen Nachrichten.",
+	"changeling-search-aria-label": "Gehen Sie zu Seite"
+}

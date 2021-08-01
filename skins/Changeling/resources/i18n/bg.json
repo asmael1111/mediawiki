@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"StanProg"
+		]
+	},
+	"skinname-changeling": "Хамелеон",
+	"changeling-desc": "Много гъвкав и адаптивен облик използващ Bootstrap 4",
+	"changeling-loggedin": "Вие сте влезли като $1.",
+	"changeling-notloggedin": "Вие не сте влезли в системата",
+	"changeling-newmessages": "Имате нови съобщения.",
+	"changeling-nonewmessages": "Нямате нови съобщения.",
+	"changeling-search-aria-label": "Към страницата"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pippinu",
+			"Sarvaturi"
+		]
+	},
+	"changeling-desc": "La peddi Changeling",
+	"changeling-loggedin": "Trasisti comu $1.",
+	"changeling-notloggedin": "Nun trasisti.",
+	"changeling-newmessages": "Hai missaggî novi.",
+	"changeling-nonewmessages": "Nun hai nuddu missaggiu novu."
+}

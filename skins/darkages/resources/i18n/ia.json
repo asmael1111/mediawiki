@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Un apparentia reactive e multo flexibile que usa Bootstrap 4",
+	"darkages-loggedin": "Tu ha aperite session como $1.",
+	"darkages-notloggedin": "Tu non ha aperite session",
+	"darkages-newmessages": "Tu ha nove messages.",
+	"darkages-nonewmessages": "Tu non ha nove messages.",
+	"darkages-search-aria-label": "Vader al pagina",
+	"darkages-toggler": "Menu"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm",
+			"Strainu"
+		]
+	},
+	"skinname-darkages": "Cameleon",
+	"darkages-desc": "Aspectul Cameleon",
+	"darkages-loggedin": "V-ați autentificat ca $1.",
+	"darkages-notloggedin": "Nu v-ați autentificat.",
+	"darkages-newmessages": "Aveți mesaje noi.",
+	"darkages-nonewmessages": "Nu aveți mesaje noi."
+}

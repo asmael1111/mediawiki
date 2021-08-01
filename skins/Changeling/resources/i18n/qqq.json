@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Robby",
+			"Shirayuki",
+			"Stephan Gambke",
+			"Umherirrender"
+		]
+	},
+	"skinname-changeling": "{{Optional}}\nThe name of this skin",
+	"changeling-desc": "{{desc|name=Changeling|url=https://www.mediawiki.org/wiki/Skin:Changeling}}",
+	"changeling-loggedin": "Text shown, when the user is logged in. Parameters:\n* $1 - username\nSee also:\n* {{msg-mw|Changeling-notloggedin}}",
+	"changeling-notloggedin": "Text shown, when the user is not logged in.\n\nSee also:\n* {{msg-mw|Changeling-loggedin}}",
+	"changeling-newmessages": "Text shown, when the user has new messages.\n\nSee also:\n* {{msg-mw|Changeling-nonewmessages}}",
+	"changeling-nonewmessages": "Text shown, when the user has no new messages.\n\nSee also:\n* {{msg-mw|Changeling-newmessages}}",
+	"changeling-search-aria-label": "ARIA label for the search bar button.",
+	"changeling-toggler": "Text for the NavbarHorizontal toggler button.\n{{identical|Menu}}"
+}

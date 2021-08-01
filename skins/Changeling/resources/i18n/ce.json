@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Bootstrap 4 лелош чӀогӀа говза тема",
+	"changeling-loggedin": "Ахьа болх беш бу $1 санна.",
+	"changeling-notloggedin": "Системин довзийтар",
+	"changeling-newmessages": "Хьуна кхаьчна керла хаам.",
+	"changeling-nonewmessages": "Хьан бац керла хаам.",
+	"changeling-search-aria-label": "АгӀонан дехьадала"
+}

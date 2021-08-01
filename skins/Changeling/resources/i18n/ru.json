@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helpau",
+			"Kareyac",
+			"MuratTheTurkish",
+			"Okras"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Очень гибкая и отзывчивая тема с использованием Bootstrap 4",
+	"changeling-loggedin": "Вы вошли как $1.",
+	"changeling-notloggedin": "Вы не вошли в систему",
+	"changeling-newmessages": "У вас есть новые сообщения.",
+	"changeling-nonewmessages": "У вас нет новых сообщений.",
+	"changeling-search-aria-label": "Перейти к странице",
+	"changeling-toggler": "Меню"
+}

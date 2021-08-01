@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Het uiterlijk Changeling",
+	"changeling-loggedin": "U bent aangemeld als $1 .",
+	"changeling-notloggedin": "U bent niet aangemeld",
+	"changeling-newmessages": "U hebt nieuwe berichten.",
+	"changeling-nonewmessages": "U hebt geen nieuwe berichten.",
+	"changeling-search-aria-label": "Naar pagina gaan"
+}

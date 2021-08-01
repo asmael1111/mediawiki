@@ -1,0 +1,177 @@
+<?php
+/**
+ * File holding the SkinDarkages class
+ *
+ * This file is part of the MediaWiki skin Darkages.
+ *
+ * @copyright 2013 - 2019, Stephan Gambke
+ * @license   GPL-3.0-or-later
+ *
+ * The Darkages skin is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * The Darkages skin is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @file
+ * @ingroup Skins
+ */
+
+namespace Skins\Darkages;
+
+use Bootstrap\BootstrapManager;
+use OutputPage;
+use QuickTemplate;
+use ResourceLoader;
+use Sanitizer;
+use Skins\Darkages\Hooks\SetupAfterCache;
+use SkinTemplate;
+use Hooks;
+
+/**
+ * SkinTemplate class for the Darkages skin
+ *
+ * @author Stephan Gambke
+ * @since 1.0
+ * @ingroup Skins
+ */
+class Darkages extends SkinTemplate {
+
+	public $skinname = 'darkages';
+	public $stylename = 'darkages';
+	public $template = '\Skins\Darkages\DarkagesTemplate';
+
+	private $componentFactory;
+
+	/**
+	 * @throws \Exception
+	 */
+	public static function init() {
+		/**
+		 * Using callbacks for hook registration
+		 *
+		 * The hook registry should contain as less knowledge about a process as
+		 * necessary therefore a callback is used as Factory/Builder that instantiates
+		 * a business / domain object.
+		 *
+		 * GLOBAL state should be encapsulated by the callback and not leaked into
+		 * a instantiated class
+		 */
+
+		/**
+		 * @see https://www.mediawiki.org/wiki/Manual:Hooks/BeforeInitialize
+		 */
+		$GLOBALS[ 'wgHooks' ][ 'SetupAfterCache' ][ ] = function () {
+			$setupAfterCache = new SetupAfterCache(
+				BootstrapManager::getInstance(),
+				$GLOBALS,
+				$GLOBALS['wgRequest']
+			);
+
+			$setupAfterCache->process();
+		};
+
+		// FIXME: Put this in a proper class, so it can be tested
+		$GLOBALS[ 'wgHooks' ][ 'ResourceLoaderRegisterModules' ][ ] = function ( ResourceLoader $rl ) {
+			$rl->register( 'zzz.ext.bootstrap.styles',
+				$GLOBALS['wgResourceModules']['ext.bootstrap.styles'] );
+		};
+
+		// set default skin layout
+		if ( DIRECTORY_SEPARATOR === '/' && $GLOBALS[ 'datDarkagesLayoutFile' ][0] !== '/' ) {
+			$GLOBALS[ 'datDarkagesLayoutFile' ] = $GLOBALS[ 'wgStyleDirectory' ] . '/darkages/' .
+				$GLOBALS[ 'datDarkagesLayoutFile' ];
+		}
+	}
+
+	/**
+	 * @param OutputPage $out
+	 */
+	public function initPage( OutputPage $out ) {
+		parent::initPage( $out );
+
+		// Enable responsive behaviour on mobile browsers
+		$out->addMeta( 'viewport', 'width=device-width, initial-scale=1, shrink-to-fit=no' );
+	}
+
+	/**
+	 * @inheritDoc
+	 */
+	protected function prepareQuickTemplate() {
+		$tpl = parent::prepareQuickTemplate();
+		Hooks::run( 'DarkagesSkinTemplateOutputPageBeforeExec', [ $this, $tpl ] );
+		return $tpl;
+	}
+
+	/**
+	 * @return QuickTemplate
+	 * @throws \MWException
+	 */
+	protected function setupTemplateForOutput() {
+		$template = parent::setupTemplateForOutput();
+
+		$this->getComponentFactory()->setSkinTemplate( $template );
+
+		$template->set( 'skin', $this );
+		$this->addSkinModulesToOutput();
+
+		return $template;
+	}
+
+	/**
+	 * @return ComponentFactory
+	 */
+	public function getComponentFactory() {
+		if ( !isset( $this->componentFactory ) ) {
+			$this->componentFactory = new ComponentFactory(
+				$this->getLayoutFilePath()
+			);
+		}
+
+		return $this->componentFactory;
+	}
+
+	/**
+	 * @throws \MWException
+	 */
+	public function addSkinModulesToOutput() {
+		// load Bootstrap scripts
+		$output = $this->getOutput();
+		$output->addModules( [ 'ext.bootstrap.scripts' ] );
+		$output->addModules(
+			$this->getComponentFactory()->getRootComponent()->getResourceLoaderModules() );
+	}
+
+	/**
+	 * @param \Title $title
+	 * @return string
+	 */
+	public function getPageClasses( $title ) {
+		$layoutFilePath = $this->getLayoutFilePath();
+		$layoutName = Sanitizer::escapeClass( 'layout-' . basename( $layoutFilePath, '.xml' ) );
+		return implode( ' ', [ parent::getPageClasses( $title ), $layoutName ] );
+	}
+
+	/**
+	 * Template method that can be overridden by subclasses
+	 * @return string Path to layout file
+	 */
+	protected function getLayoutFilePath() {
+		return $GLOBALS[ 'datDarkagesLayoutFile' ];
+	}
+
+	/**
+	 * Template method that can be overridden by subclasses
+	 * @return string Path to theme file
+	 */
+	protected function getThemeFilePath() {
+		return $GLOBALS[ 'datDarkagesThemeFile' ];
+	}
+}

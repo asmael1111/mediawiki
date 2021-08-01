@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"DannyS712",
+			"Fitoschido"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "La apariencia Darkages.",
+	"darkages-loggedin": "Has accedido como $1.",
+	"darkages-notloggedin": "No has accedido",
+	"darkages-newmessages": "Tienes mensajes nuevos.",
+	"darkages-nonewmessages": "No tienes mensajes nuevos.",
+	"darkages-search-aria-label": "Ir a la página",
+	"darkages-toggler": "Menú"
+}

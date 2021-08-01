@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"darkages-desc": "Zelo prilagodljiva odzivna preobleka, ki uporablja Bootstrap 4",
+	"darkages-loggedin": "Prijavljeni ste kot $1.",
+	"darkages-notloggedin": "Niste prijavljeni.",
+	"darkages-newmessages": "Imate nova sporočila.",
+	"darkages-nonewmessages": "Nimate novih sporočil."
+}

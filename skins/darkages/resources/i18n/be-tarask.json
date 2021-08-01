@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Renessaince"
+		]
+	},
+	"skinname-darkages": "Хамэлеон",
+	"darkages-desc": "Высокагнуткая чуткая тэма афармленьня з выкарыстаньнем Bootstrap 4",
+	"darkages-loggedin": "Вы ўвайшлі як $1.",
+	"darkages-notloggedin": "Вы не ўвайшлі ў сыстэму",
+	"darkages-newmessages": "Вы маеце новыя паведамленьні.",
+	"darkages-nonewmessages": "У вас няма новых паведамленьняў.",
+	"darkages-search-aria-label": "Перайсьці на старонку"
+}

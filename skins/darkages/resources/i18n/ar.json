@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khaled",
+			"Meno25",
+			"ديفيد"
+		]
+	},
+	"skinname-darkages": "حرباء",
+	"darkages-desc": "واجهة مرنة جدا باستخدام Bootstrap 4",
+	"darkages-loggedin": "تم تسجيل دخولك كـ $1.",
+	"darkages-notloggedin": "لم تسجل الدخول.",
+	"darkages-newmessages": "لديك رسالة جديدة.",
+	"darkages-nonewmessages": "ليست لديك رسائل جديدة.",
+	"darkages-search-aria-label": "انتقل إلى صفحة"
+}

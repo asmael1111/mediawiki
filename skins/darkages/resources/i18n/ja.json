@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"2nd-player",
+			"Shirayuki",
+			"SkyDaisy9",
+			"Yusuke1109"
+		]
+	},
+	"skinname-darkages": "カメレオン",
+	"darkages-desc": "Bootstrap 4 を使用した柔軟性の高いレスポンシブ外装",
+	"darkages-loggedin": "$1 としてログインしています。",
+	"darkages-notloggedin": "ログインしていません。",
+	"darkages-newmessages": "新着メッセージがあります。",
+	"darkages-nonewmessages": "新しいメッセージはありません。",
+	"darkages-search-aria-label": "ページへ移動"
+}

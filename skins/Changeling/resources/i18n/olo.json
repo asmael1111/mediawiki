@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"changeling-loggedin": "Olet kirjutannuhes käyttäjänny $1.",
+	"changeling-notloggedin": "Et ole kirjutannuhes.",
+	"changeling-newmessages": "Sinul on uuzii viestilöi.",
+	"changeling-nonewmessages": "Sinul ei ole uuzii viestilöi."
+}

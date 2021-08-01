@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"changeling-desc": "Changeling útsjóndin",
+	"changeling-loggedin": "Tú ert innritað/ur sum $1.",
+	"changeling-notloggedin": "Tú ert ikki innritað/ur.",
+	"changeling-newmessages": "Tú hevur nýggj boð.",
+	"changeling-nonewmessages": "Tú hevur ongi nýggj boð."
+}

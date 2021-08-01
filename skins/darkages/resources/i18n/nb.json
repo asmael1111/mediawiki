@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fredrilj",
+			"Jon Harald Søby"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "En meget fleksibel drakt som bruker Bootstrap 4",
+	"darkages-loggedin": "Du er logget inn som $1.",
+	"darkages-notloggedin": "Du er ikke logget inn.",
+	"darkages-newmessages": "Du har nye meldinger.",
+	"darkages-nonewmessages": "Du har ingen nye meldinger.",
+	"darkages-search-aria-label": "Gå til side",
+	"darkages-toggler": "Meny"
+}

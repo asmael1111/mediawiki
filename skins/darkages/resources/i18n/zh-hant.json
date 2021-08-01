@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Kly",
+			"Liuxinyu970226",
+			"Winston Sung"
+		]
+	},
+	"skinname-darkages": "變色龍",
+	"darkages-desc": "使用 Bootstrap 4 的高度彈性回應外觀",
+	"darkages-loggedin": "您已登入為 $1。",
+	"darkages-notloggedin": "您尚未登入",
+	"darkages-newmessages": "您有新訊息。",
+	"darkages-nonewmessages": "你沒有新訊息。",
+	"darkages-search-aria-label": "前往頁面",
+	"darkages-toggler": "選單"
+}

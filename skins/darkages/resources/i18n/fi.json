@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10",
+			"MITO",
+			"McSalama",
+			"Nike",
+			"Pyscowicz"
+		]
+	},
+	"skinname-darkages": "Kameleontti",
+	"darkages-desc": "Erittäin mukautuva responsiivinen ulkoasu, joka käyttää Bootstrap 4:ää",
+	"darkages-loggedin": "Olet kirjautunut sisään nimellä $1.",
+	"darkages-notloggedin": "Et ole kirjautunut sisään.",
+	"darkages-newmessages": "Sinulla on uusia viestejä.",
+	"darkages-nonewmessages": "Sinulla ei ole uusia viestejä.",
+	"darkages-search-aria-label": "Siirry sivulle",
+	"darkages-toggler": "Valikko"
+}

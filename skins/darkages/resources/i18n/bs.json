@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Palapa",
+			"Srdjan m",
+			"Srđan"
+		]
+	},
+	"skinname-darkages": "Kameleon",
+	"darkages-desc": "Tema \"Kameleon\"",
+	"darkages-loggedin": "Prijavljeni ste kao $1.",
+	"darkages-notloggedin": "Niste prijavljeni.",
+	"darkages-newmessages": "Imate nove poruke.",
+	"darkages-nonewmessages": "Nemate nove poruke."
+}

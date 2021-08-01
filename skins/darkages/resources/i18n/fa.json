@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"FarsiNevis",
+			"Reza1615"
+		]
+	},
+	"skinname-darkages": "آفتاب‌پرست",
+	"darkages-desc": "پوستهٔ آفتاب‌پرست",
+	"darkages-loggedin": "شما به‌عنوان  $1 وارد شده‌اید.",
+	"darkages-notloggedin": "شما وارد نشده‌ايد.",
+	"darkages-newmessages": "پیام‌های تازه‌ای دارید.",
+	"darkages-nonewmessages": "پیام تازه‌ای ندارید.",
+	"darkages-search-aria-label": "برو به صفحهٔ"
+}

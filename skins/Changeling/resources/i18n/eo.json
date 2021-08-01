@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"skinname-changeling": "Kameleono",
+	"changeling-desc": "La etoso Kameleono",
+	"changeling-loggedin": "Vi ensalutis kiel $1.",
+	"changeling-notloggedin": "Vi ne ensalutis.",
+	"changeling-newmessages": "Vi havas novajn mesaĝojn.",
+	"changeling-nonewmessages": "Vi ne havas novajn mesaĝojn.",
+	"changeling-search-aria-label": "Iri al paĝo"
+}

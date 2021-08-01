@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Um tema de resposta rápida e altamente flexível que usa Bootstrap 4",
+	"changeling-loggedin": "Sessão iniciada como $1.",
+	"changeling-notloggedin": "Não tem sessão iniciada",
+	"changeling-newmessages": "Tem novas mensagens.",
+	"changeling-nonewmessages": "Não tem novas mensagens.",
+	"changeling-search-aria-label": "Ir para a página"
+}

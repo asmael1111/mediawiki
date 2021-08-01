@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wisdom"
+		]
+	},
+	"darkages-loggedin": "$1 -ээр логин хийгээгүй байна.",
+	"darkages-notloggedin": "Та логин хийгээгүй байна",
+	"darkages-newmessages": "Танд шинэ мэдээ ирсэн байна.",
+	"darkages-nonewmessages": "Танд ямар мэдээ ирээгүй байна."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"changeling-loggedin": "Tamsta ī prisijongė̄s kap $1.",
+	"changeling-notloggedin": "Tamsta nie prisijongė̄s.",
+	"changeling-newmessages": "Tamstā parė̄jė naujės žėnotės.",
+	"changeling-nonewmessages": "Pas Tamstā naujū žėnotiu nie."
+}

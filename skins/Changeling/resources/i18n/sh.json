@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"skinname-changeling": "Kameleon",
+	"changeling-loggedin": "Prijavljeni ste kao $1.",
+	"changeling-notloggedin": "Niste prijavljeni",
+	"changeling-newmessages": "Imate nove poruke",
+	"changeling-nonewmessages": "Nemate nove poruke.",
+	"changeling-search-aria-label": "Idi na stranicu"
+}

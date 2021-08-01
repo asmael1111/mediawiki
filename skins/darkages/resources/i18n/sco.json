@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"darkages-desc": "The Darkages skin.",
+	"darkages-loggedin": "Ye'r loggit in aes $1.",
+	"darkages-notloggedin": "Ye'r no loggit in",
+	"darkages-newmessages": "Ye hae new messages.",
+	"darkages-nonewmessages": "Ye'v nae new messages."
+}

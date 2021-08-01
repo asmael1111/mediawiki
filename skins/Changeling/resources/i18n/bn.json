@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftab1995",
+			"Aftabuzzaman",
+			"আজিজ",
+			"আফতাবুজ্জামান"
+		]
+	},
+	"changeling-desc": "বহুরূপী আবরণ",
+	"changeling-loggedin": "আপনি $1 হিসাবে প্রবেশ করেছেন।",
+	"changeling-notloggedin": "আপনি প্রবেশ করেন নি",
+	"changeling-newmessages": "আপনার নতুন বার্তা এসেছে।",
+	"changeling-nonewmessages": "আপনার কাছে কোনও নতুন বার্তা নেই।"
+}

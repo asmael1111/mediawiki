@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"skinname-darkages": "Камелеон",
+	"darkages-desc": "Мошне прилагодливо и одѕивно руво што користи Bootstrap 4",
+	"darkages-loggedin": "Најавени сте како $1.",
+	"darkages-notloggedin": "Не сте најавени",
+	"darkages-newmessages": "Имате нови пораки",
+	"darkages-nonewmessages": "Немате нови пораки.",
+	"darkages-search-aria-label": "Оди на страница",
+	"darkages-toggler": "Мени"
+}

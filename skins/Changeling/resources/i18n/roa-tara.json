@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "'Nu skin assaije flessibbele e responsive ausanne Bootstrap 4",
+	"changeling-loggedin": "Tu è trasute cumme a $1.",
+	"changeling-notloggedin": "Non gè trasute.",
+	"changeling-newmessages": "Tìne 'nu messàgge nuève.",
+	"changeling-nonewmessages": "Non ge tìne messàgge nuève.",
+	"changeling-search-aria-label": "Veje 'a pàgene",
+	"changeling-toggler": "Menù"
+}

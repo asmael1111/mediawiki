@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "A aparencia Darkages.",
+	"darkages-loggedin": "Está conectado como $1.",
+	"darkages-notloggedin": "Non está conectado.",
+	"darkages-newmessages": "Ten mensaxes novas.",
+	"darkages-nonewmessages": "Non ten mensaxes novas."
+}

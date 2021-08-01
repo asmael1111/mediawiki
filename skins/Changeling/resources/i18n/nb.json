@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fredrilj",
+			"Jon Harald Søby"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "En meget fleksibel drakt som bruker Bootstrap 4",
+	"changeling-loggedin": "Du er logget inn som $1.",
+	"changeling-notloggedin": "Du er ikke logget inn.",
+	"changeling-newmessages": "Du har nye meldinger.",
+	"changeling-nonewmessages": "Du har ingen nye meldinger.",
+	"changeling-search-aria-label": "Gå til side",
+	"changeling-toggler": "Meny"
+}

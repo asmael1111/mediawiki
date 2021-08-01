@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Ny skin changeling",
+	"changeling-loggedin": "Tafiditra amin'ny anarana $1 ianao.",
+	"changeling-notloggedin": "Tsy tafiditra ianao.",
+	"changeling-newmessages": "Misy hafatra vaovao.",
+	"changeling-nonewmessages": "Tsy misy hafatra vaovao."
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton",
+			"Saederup92"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Temaet Darkages",
+	"darkages-loggedin": "Du er logget ind som $1.",
+	"darkages-notloggedin": "Du er ikke logget ind.",
+	"darkages-newmessages": "Du har nye beskeder.",
+	"darkages-nonewmessages": "Du har ingen nye beskeder.",
+	"darkages-search-aria-label": "Gå til side"
+}

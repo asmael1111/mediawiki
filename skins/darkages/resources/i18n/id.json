@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya",
+			"Daud I.F. Argana",
+			"Diki Ananta",
+			"Sumbukompor"
+		]
+	},
+	"skinname-darkages": "Bunglon",
+	"darkages-desc": "Kulit responsif yang sangat fleksibel menggunakan Bootstrap 4",
+	"darkages-loggedin": "Anda telah masuk log sebagai $1.",
+	"darkages-notloggedin": "Anda belum masuk log",
+	"darkages-newmessages": "Anda memiliki pesan baru.",
+	"darkages-nonewmessages": "Anda tidak memiliki pesan baru.",
+	"darkages-search-aria-label": "Tuju ke halaman"
+}

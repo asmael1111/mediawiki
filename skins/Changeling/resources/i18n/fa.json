@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"FarsiNevis",
+			"Reza1615"
+		]
+	},
+	"skinname-changeling": "آفتاب‌پرست",
+	"changeling-desc": "پوستهٔ آفتاب‌پرست",
+	"changeling-loggedin": "شما به‌عنوان  $1 وارد شده‌اید.",
+	"changeling-notloggedin": "شما وارد نشده‌ايد.",
+	"changeling-newmessages": "پیام‌های تازه‌ای دارید.",
+	"changeling-nonewmessages": "پیام تازه‌ای ندارید.",
+	"changeling-search-aria-label": "برو به صفحهٔ"
+}

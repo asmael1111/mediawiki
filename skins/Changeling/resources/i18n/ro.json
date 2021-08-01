@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm",
+			"Strainu"
+		]
+	},
+	"skinname-changeling": "Cameleon",
+	"changeling-desc": "Aspectul Cameleon",
+	"changeling-loggedin": "V-ați autentificat ca $1.",
+	"changeling-notloggedin": "Nu v-ați autentificat.",
+	"changeling-newmessages": "Aveți mesaje noi.",
+	"changeling-nonewmessages": "Nu aveți mesaje noi."
+}

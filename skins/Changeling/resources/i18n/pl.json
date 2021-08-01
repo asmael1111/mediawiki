@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matma Rex",
+			"Rail",
+			"Railfail536",
+			"Ty221"
+		]
+	},
+	"skinname-changeling": "Kameleon",
+	"changeling-desc": "Wysoce elastyczna, responsywna skórka używająca technologii Bootstrap 4",
+	"changeling-loggedin": "Jesteś zalogowany jako $1.",
+	"changeling-notloggedin": "Nie jesteś zalogowany",
+	"changeling-newmessages": "Masz nowe wiadomości.",
+	"changeling-nonewmessages": "Nie masz nowych wiadomości.",
+	"changeling-search-aria-label": "Przejdź do strony"
+}

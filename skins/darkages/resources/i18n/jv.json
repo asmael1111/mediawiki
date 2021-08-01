@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"skinname-darkages": "Bunglon",
+	"darkages-desc": "Ules bunglon",
+	"darkages-loggedin": "Panjenengan mlebu log minangka $1.",
+	"darkages-notloggedin": "Panjenengan durung mlebu log",
+	"darkages-newmessages": "Panjenengan éntuk layang anyar.",
+	"darkages-nonewmessages": "Panjenengan ora duwé layang anyar."
+}

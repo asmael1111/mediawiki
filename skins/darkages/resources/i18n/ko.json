@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Codenstory",
+			"Ykhwong",
+			"아라"
+		]
+	},
+	"skinname-darkages": "카멜레온",
+	"darkages-desc": "부트스트랩 4를 이용한 반응형 스킨",
+	"darkages-loggedin": "$1님으로 로그인하고 있습니다.",
+	"darkages-notloggedin": "로그인하고 있지 않습니다.",
+	"darkages-newmessages": "새 메시지가 있습니다.",
+	"darkages-nonewmessages": "새 메시지가 없습니다.",
+	"darkages-search-aria-label": "문서로 이동",
+	"darkages-toggler": "메뉴"
+}

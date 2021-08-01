@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vahe Gharakhanyan"
+		]
+	},
+	"changeling-loggedin": "Դուք մտել եք որպես $1:",
+	"changeling-notloggedin": "Դուք չեք մտել համակարգ:",
+	"changeling-newmessages": "Դուք նոր ուղերձներ ունեք:",
+	"changeling-nonewmessages": "Դուք նոր ուղերձներ չունեք:"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "A aparencia Changeling.",
+	"changeling-loggedin": "Está conectado como $1.",
+	"changeling-notloggedin": "Non está conectado.",
+	"changeling-newmessages": "Ten mensaxes novas.",
+	"changeling-nonewmessages": "Non ten mensaxes novas."
+}

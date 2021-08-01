@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"HalanTul"
+		]
+	},
+	"changeling-desc": "Changeling.",
+	"changeling-loggedin": "$1 аатынан киирбиккин.",
+	"changeling-notloggedin": "Бэлиэ-аатынан киирэ иликкин.",
+	"changeling-newmessages": "Эйиэхэ саҥа сурук кэлбит.",
+	"changeling-nonewmessages": "Саҥа сурук кэлэ илик."
+}

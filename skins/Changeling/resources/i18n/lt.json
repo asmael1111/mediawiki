@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"changeling-desc": "Changeling išvaizda",
+	"changeling-loggedin": "Jūs esate prisijungęs kaip $1.",
+	"changeling-notloggedin": "Jūs esate neprisijungęs.",
+	"changeling-newmessages": "Jūs turite naujų žinučių.",
+	"changeling-nonewmessages": "Jūs neturite naujų pranešimų."
+}

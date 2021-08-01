@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephan Gambke"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "A highly flexible responsive skin using Bootstrap 4",
+	"changeling-loggedin": "You are logged in as $1.",
+	"changeling-notloggedin": "You are not logged in.",
+	"changeling-newmessages": "You have new messages.",
+	"changeling-nonewmessages": "You have no new messages.",
+	"changeling-search-aria-label": "Go to page",
+	"changeling-toggler": "Menu"
+}

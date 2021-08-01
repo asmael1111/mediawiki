@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi",
+			"Gorizon",
+			"Kumkumuk",
+			"Mirzali",
+			"Orbot707"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Bootstrap 4 gureynayışiya xeylê namnaye u cesasyew asayış",
+	"darkages-loggedin": "$1 nameya şıma ronıştış akerd o.",
+	"darkages-notloggedin": "Şıma ronıştış nêakerd o.",
+	"darkages-newmessages": "Şımaré mesaco newe esto",
+	"darkages-nonewmessages": "Şımaré mesaco newe çıni yo",
+	"darkages-search-aria-label": "Şo pele"
+}

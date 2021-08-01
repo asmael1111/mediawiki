@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней",
+			"Ильнар"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Darkages күренеше бизәлеше.",
+	"darkages-loggedin": "Сез $1 булып кергәнсез.",
+	"darkages-notloggedin": "Сез системага кермәгәнсез.",
+	"darkages-newmessages": "Сезнең яңа хәбәрләгез бар.",
+	"darkages-nonewmessages": "Сезнең яңа хәбәрләрегез юк."
+}

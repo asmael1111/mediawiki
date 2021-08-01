@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"skinname-darkages": "Kameleon",
+	"darkages-desc": "Gwisk Kameleon",
+	"darkages-loggedin": "Kevreet oc'h evel $1.",
+	"darkages-notloggedin": "N'hoc'h ket kevreet.",
+	"darkages-newmessages": "Kemennadennoù nevez hoc'h eus.",
+	"darkages-nonewmessages": "N'hoc'h eus kemennadenn nevez ."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"darkages-loggedin": "Olet kirjutannuhes käyttäjänny $1.",
+	"darkages-notloggedin": "Et ole kirjutannuhes.",
+	"darkages-newmessages": "Sinul on uuzii viestilöi.",
+	"darkages-nonewmessages": "Sinul ei ole uuzii viestilöi."
+}

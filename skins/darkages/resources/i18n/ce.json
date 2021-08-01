@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Bootstrap 4 лелош чӀогӀа говза тема",
+	"darkages-loggedin": "Ахьа болх беш бу $1 санна.",
+	"darkages-notloggedin": "Системин довзийтар",
+	"darkages-newmessages": "Хьуна кхаьчна керла хаам.",
+	"darkages-nonewmessages": "Хьан бац керла хаам.",
+	"darkages-search-aria-label": "АгӀонан дехьадала"
+}

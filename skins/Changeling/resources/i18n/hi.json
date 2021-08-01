@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic",
+			"Siddhartha Ghai"
+		]
+	},
+	"skinname-changeling": "केमेलोन",
+	"changeling-desc": "कैमिलियन (गिरगिट) त्वचा",
+	"changeling-loggedin": "आप $1 खाते में लॉग्ड इन हैं।",
+	"changeling-notloggedin": "आप लॉग्ड इन नहीं हैं।",
+	"changeling-newmessages": "आपके लिए नए सन्देश हैं।",
+	"changeling-nonewmessages": "आपके लिए कोई नए सन्देश नहीं हैं।"
+}

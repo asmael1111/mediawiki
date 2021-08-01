@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bugoslav"
+		]
+	},
+	"changeling-desc": "Visokoprilagodljiv izgled s promjenjivim (interaktivnim) odzivom koji rabi Bootstrap 4 (Changeling)",
+	"changeling-loggedin": "Prijavljeni ste pod suradničkim imenom $1.",
+	"changeling-notloggedin": "Trenutačno niste prijavljeni.",
+	"changeling-newmessages": "Imate nove poruke.",
+	"changeling-nonewmessages": "Trenutačno nemate novih poruka."
+}

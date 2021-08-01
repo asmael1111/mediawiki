@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"changeling-loggedin": "អ្នកកំពុងកត់ឈ្មោះចូលជា $1។",
+	"changeling-notloggedin": "អ្នកមិនទាន់កត់ឈ្មោះចូលទេ។",
+	"changeling-newmessages": "អ្នកមានសារថ្មីៗ។",
+	"changeling-nonewmessages": "អ្នកគ្មានសារថ្មីៗទេ។"
+}

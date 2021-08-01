@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"changeling-desc": "گرگٹ پوشاک",
+	"changeling-loggedin": "آپ $1 کے نام سے داخل ہو چکے ہیں۔",
+	"changeling-notloggedin": "آپ داخل نہیں ہوئے۔",
+	"changeling-newmessages": "آپ کے لیے نئے پیغام۔",
+	"changeling-nonewmessages": "آپ کے لیے کوئی نیا پیغام نہیں ہے۔"
+}

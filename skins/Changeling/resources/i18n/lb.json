@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "E ganz flexibele reaktiven Interface dee Bootstrap 4 benotzt",
+	"changeling-loggedin": "Dir sidd als $1 ageloggt.",
+	"changeling-notloggedin": "Dir sidd net ageloggt",
+	"changeling-newmessages": "Dir hutt nei Messagen.",
+	"changeling-nonewmessages": "Dir hutt keng nei Messagen.",
+	"changeling-search-aria-label": "Op d'Säit goen",
+	"changeling-toggler": "Menü"
+}

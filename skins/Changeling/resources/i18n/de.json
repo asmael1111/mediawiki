@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Stellt eine flexible wie responsive, auf Twitter Bootstrap 4 gestützte, Benutzeroberfläche bereit",
+	"changeling-loggedin": "Du bist als $1 angemeldet.",
+	"changeling-notloggedin": "Du bist nicht angemeldet.",
+	"changeling-newmessages": "Du hast neue Nachrichten.",
+	"changeling-nonewmessages": "Du hast keine neuen Nachrichten.",
+	"changeling-search-aria-label": "Gehe zu Seite"
+}

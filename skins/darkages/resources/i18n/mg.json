@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Ny skin darkages",
+	"darkages-loggedin": "Tafiditra amin'ny anarana $1 ianao.",
+	"darkages-notloggedin": "Tsy tafiditra ianao.",
+	"darkages-newmessages": "Misy hafatra vaovao.",
+	"darkages-nonewmessages": "Tsy misy hafatra vaovao."
+}

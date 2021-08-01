@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kandar",
+			"Uchup19"
+		]
+	},
+	"skinname-darkages": "Londok",
+	"darkages-desc": "Kulit Londok.",
+	"darkages-loggedin": "Anjeun asup log salaku $1.",
+	"darkages-notloggedin": "Anjeun can asup log",
+	"darkages-newmessages": "Aya obrolan anyar.",
+	"darkages-nonewmessages": "Taya obrolan anyar."
+}

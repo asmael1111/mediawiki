@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"skinname-darkages": "Kameleono",
+	"darkages-desc": "La etoso Kameleono",
+	"darkages-loggedin": "Vi ensalutis kiel $1.",
+	"darkages-notloggedin": "Vi ne ensalutis.",
+	"darkages-newmessages": "Vi havas novajn mesaĝojn.",
+	"darkages-nonewmessages": "Vi ne havas novajn mesaĝojn.",
+	"darkages-search-aria-label": "Iri al paĝo"
+}

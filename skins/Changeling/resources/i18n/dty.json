@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"changeling-loggedin": "तम $1का रूपमी लगइन होइरैछऽ।",
+	"changeling-notloggedin": "तमले लगइन नाइँअरिराख्याऽ।",
+	"changeling-newmessages": "तम खिलाइ नौला सन्देशअन छन।",
+	"changeling-nonewmessages": "तम खिलाइ कोइ लै नौलो सन्देश नाइँथिन।"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Robby",
+			"Shirayuki",
+			"Stephan Gambke",
+			"Umherirrender"
+		]
+	},
+	"skinname-darkages": "{{Optional}}\nThe name of this skin",
+	"darkages-desc": "{{desc|name=Darkages|url=https://www.mediawiki.org/wiki/Skin:Darkages}}",
+	"darkages-loggedin": "Text shown, when the user is logged in. Parameters:\n* $1 - username\nSee also:\n* {{msg-mw|Darkages-notloggedin}}",
+	"darkages-notloggedin": "Text shown, when the user is not logged in.\n\nSee also:\n* {{msg-mw|Darkages-loggedin}}",
+	"darkages-newmessages": "Text shown, when the user has new messages.\n\nSee also:\n* {{msg-mw|Darkages-nonewmessages}}",
+	"darkages-nonewmessages": "Text shown, when the user has no new messages.\n\nSee also:\n* {{msg-mw|Darkages-newmessages}}",
+	"darkages-search-aria-label": "ARIA label for the search bar button.",
+	"darkages-toggler": "Text for the NavbarHorizontal toggler button.\n{{identical|Menu}}"
+}

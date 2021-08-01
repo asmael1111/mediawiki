@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Fitoschido",
+			"Jmarchn",
+			"Toniher"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Una aparença sensible i altament flexible que utilitza Bootstrap 4.",
+	"darkages-loggedin": "Esteu connectat com a $1.",
+	"darkages-notloggedin": "No esteu connectat.",
+	"darkages-newmessages": "Teniu missatges nous.",
+	"darkages-nonewmessages": "No teniu missatges nous."
+}

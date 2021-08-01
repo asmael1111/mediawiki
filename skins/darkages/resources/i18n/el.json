@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giannaras99",
+			"Glavkos",
+			"Nikosguard"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Ένα εξαιρετικά ευέλικτο Θέμα εμφάνισης που ανταποκρίνεται χρησιμοποιώντας το Bootstrap 4.",
+	"darkages-loggedin": "Έχετε συνδεθεί ως $1.",
+	"darkages-notloggedin": "Δεν έχετε συνδεθεί",
+	"darkages-newmessages": "Έχετε νέα μηνύματα.",
+	"darkages-nonewmessages": "Δεν έχετε νέα μηνύματα.",
+	"darkages-toggler": "Μενού"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"skinname-changeling": "Tắc kè hoa",
+	"changeling-desc": "Giao diện Tắc kè hoa",
+	"changeling-loggedin": "Bạn đã đăng nhập với tên $1.",
+	"changeling-notloggedin": "Bạn chưa đăng nhập",
+	"changeling-newmessages": "Bạn có tin nhắn mới.",
+	"changeling-nonewmessages": "Bạn không có tin nhắn mới."
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Hedda",
+			"Sayginer"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Bootstrap 4 kullanarak oldukça esnek ve hassas bir görünüm",
+	"darkages-loggedin": "$1 olarak oturum açtınız.",
+	"darkages-notloggedin": "Oturum açmadınız.",
+	"darkages-newmessages": "Yeni mesajınız var.",
+	"darkages-nonewmessages": "Yeni mesajınız yok.",
+	"darkages-search-aria-label": "Sayfaya git",
+	"darkages-toggler": "Menü"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaroslav Cerny",
+			"Mormegil"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "Velmi pružný responzivní vzhled používající Bootstrap 4",
+	"darkages-loggedin": "Jste {{GENDER:|přihlášen|přihlášena|přihlášeni}} jako $1.",
+	"darkages-notloggedin": "Nejste přihlášeni",
+	"darkages-newmessages": "Máte nové zprávy.",
+	"darkages-nonewmessages": "Nemáte žádné nové zprávy.",
+	"darkages-search-aria-label": "Jít na stránku"
+}

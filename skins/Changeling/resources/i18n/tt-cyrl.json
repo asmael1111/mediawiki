@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней",
+			"Ильнар"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Changeling күренеше бизәлеше.",
+	"changeling-loggedin": "Сез $1 булып кергәнсез.",
+	"changeling-notloggedin": "Сез системага кермәгәнсез.",
+	"changeling-newmessages": "Сезнең яңа хәбәрләгез бар.",
+	"changeling-nonewmessages": "Сезнең яңа хәбәрләрегез юк."
+}

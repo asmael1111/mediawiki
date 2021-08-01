@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "El tema Changeling.",
+	"changeling-loggedin": "Aniciasti sesión como $1.",
+	"changeling-notloggedin": "Nun aniciasti sesión",
+	"changeling-newmessages": "Tienes mensaxes nuevos.",
+	"changeling-nonewmessages": "Nun tienes mensaxes nuevos.",
+	"changeling-search-aria-label": "Dir a páxina"
+}

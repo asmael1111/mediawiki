@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf",
+			"Gomoko",
+			"Orlodrim",
+			"Verdy p",
+			"Wladek92"
+		]
+	},
+	"skinname-darkages": "Caméléon",
+	"darkages-desc": "Un habillage dynamique très flexible utilisant Bootstrap 4",
+	"darkages-loggedin": "Vous êtes connecté{{GENDER:$1||e}} en tant que $1.",
+	"darkages-notloggedin": "Vous n’êtes pas connecté(e).",
+	"darkages-newmessages": "Vous avez de nouveaux messages.",
+	"darkages-nonewmessages": "Vous n’avez aucun nouveau message.",
+	"darkages-search-aria-label": "Aller à la page",
+	"darkages-toggler": "Menu"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aviator"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Rupa Changeling",
+	"changeling-loggedin": "Anda telah log masuk sebagai $1.",
+	"changeling-notloggedin": "Anda belum log masuk",
+	"changeling-newmessages": "Anda mempunyai pesanan baru.",
+	"changeling-nonewmessages": "Anda tidak mempunyai pesanan baru."
+}

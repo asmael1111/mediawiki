@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10",
+			"MITO",
+			"McSalama",
+			"Nike",
+			"Pyscowicz"
+		]
+	},
+	"skinname-changeling": "Kameleontti",
+	"changeling-desc": "Erittäin mukautuva responsiivinen ulkoasu, joka käyttää Bootstrap 4:ää",
+	"changeling-loggedin": "Olet kirjautunut sisään nimellä $1.",
+	"changeling-notloggedin": "Et ole kirjautunut sisään.",
+	"changeling-newmessages": "Sinulla on uusia viestejä.",
+	"changeling-nonewmessages": "Sinulla ei ole uusia viestejä.",
+	"changeling-search-aria-label": "Siirry sivulle",
+	"changeling-toggler": "Valikko"
+}

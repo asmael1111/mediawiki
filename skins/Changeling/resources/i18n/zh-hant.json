@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Kly",
+			"Liuxinyu970226",
+			"Winston Sung"
+		]
+	},
+	"skinname-changeling": "變色龍",
+	"changeling-desc": "使用 Bootstrap 4 的高度彈性回應外觀",
+	"changeling-loggedin": "您已登入為 $1。",
+	"changeling-notloggedin": "您尚未登入",
+	"changeling-newmessages": "您有新訊息。",
+	"changeling-nonewmessages": "你沒有新訊息。",
+	"changeling-search-aria-label": "前往頁面",
+	"changeling-toggler": "選單"
+}

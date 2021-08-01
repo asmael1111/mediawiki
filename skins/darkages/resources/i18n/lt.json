@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"darkages-desc": "Darkages išvaizda",
+	"darkages-loggedin": "Jūs esate prisijungęs kaip $1.",
+	"darkages-notloggedin": "Jūs esate neprisijungęs.",
+	"darkages-newmessages": "Jūs turite naujų žinučių.",
+	"darkages-nonewmessages": "Jūs neturite naujų pranešimų."
+}

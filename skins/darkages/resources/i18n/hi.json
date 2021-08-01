@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic",
+			"Siddhartha Ghai"
+		]
+	},
+	"skinname-darkages": "केमेलोन",
+	"darkages-desc": "कैमिलियन (गिरगिट) त्वचा",
+	"darkages-loggedin": "आप $1 खाते में लॉग्ड इन हैं।",
+	"darkages-notloggedin": "आप लॉग्ड इन नहीं हैं।",
+	"darkages-newmessages": "आपके लिए नए सन्देश हैं।",
+	"darkages-nonewmessages": "आपके लिए कोई नए सन्देश नहीं हैं।"
+}

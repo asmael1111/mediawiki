@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"darkages-loggedin": "तम $1का रूपमी लगइन होइरैछऽ।",
+	"darkages-notloggedin": "तमले लगइन नाइँअरिराख्याऽ।",
+	"darkages-newmessages": "तम खिलाइ नौला सन्देशअन छन।",
+	"darkages-nonewmessages": "तम खिलाइ कोइ लै नौलो सन्देश नाइँथिन।"
+}

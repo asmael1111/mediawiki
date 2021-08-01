@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bugoslav"
+		]
+	},
+	"darkages-desc": "Visokoprilagodljiv izgled s promjenjivim (interaktivnim) odzivom koji rabi Bootstrap 4 (Darkages)",
+	"darkages-loggedin": "Prijavljeni ste pod suradničkim imenom $1.",
+	"darkages-notloggedin": "Trenutačno niste prijavljeni.",
+	"darkages-newmessages": "Imate nove poruke.",
+	"darkages-nonewmessages": "Trenutačno nemate novih poruka."
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"skinname-darkages": "Darkages",
+	"darkages-desc": "'Nu skin assaije flessibbele e responsive ausanne Bootstrap 4",
+	"darkages-loggedin": "Tu è trasute cumme a $1.",
+	"darkages-notloggedin": "Non gè trasute.",
+	"darkages-newmessages": "Tìne 'nu messàgge nuève.",
+	"darkages-nonewmessages": "Non ge tìne messàgge nuève.",
+	"darkages-search-aria-label": "Veje 'a pàgene",
+	"darkages-toggler": "Menù"
+}

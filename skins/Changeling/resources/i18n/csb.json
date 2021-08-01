@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"skinname-changeling": "Kaméleòn",
+	"changeling-desc": "Skórka Kaméleòn",
+	"changeling-loggedin": "Jes wlogòwóny jakno $1.",
+	"changeling-notloggedin": "Nie jes wlogòwóny",
+	"changeling-newmessages": "Môsz nowé wiadła",
+	"changeling-nonewmessages": "Nié môsz nowich wiadłów"
+}

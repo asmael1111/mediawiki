@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Codenstory",
+			"Ykhwong",
+			"아라"
+		]
+	},
+	"skinname-changeling": "카멜레온",
+	"changeling-desc": "부트스트랩 4를 이용한 반응형 스킨",
+	"changeling-loggedin": "$1님으로 로그인하고 있습니다.",
+	"changeling-notloggedin": "로그인하고 있지 않습니다.",
+	"changeling-newmessages": "새 메시지가 있습니다.",
+	"changeling-nonewmessages": "새 메시지가 없습니다.",
+	"changeling-search-aria-label": "문서로 이동",
+	"changeling-toggler": "메뉴"
+}

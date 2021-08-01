@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"skinname-changeling": "Kamelljón",
+	"changeling-desc": "Kamelljón-skinnið",
+	"changeling-loggedin": "Þú ert skráð/ur inn sem $1",
+	"changeling-notloggedin": "Þú ert ekki skráð/ur inn.",
+	"changeling-newmessages": "Þú átt ný skilaboð.",
+	"changeling-nonewmessages": "Þú átt engin ný skilaboð."
+}

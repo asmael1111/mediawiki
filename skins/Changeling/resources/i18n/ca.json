@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Fitoschido",
+			"Jmarchn",
+			"Toniher"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Una aparença sensible i altament flexible que utilitza Bootstrap 4.",
+	"changeling-loggedin": "Esteu connectat com a $1.",
+	"changeling-notloggedin": "No esteu connectat.",
+	"changeling-newmessages": "Teniu missatges nous.",
+	"changeling-nonewmessages": "No teniu missatges nous."
+}

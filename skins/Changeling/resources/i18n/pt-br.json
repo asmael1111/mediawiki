@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"!Silent",
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad",
+			"Felipe L. Ewald",
+			"Jaideraf"
+		]
+	},
+	"skinname-changeling": "Changeling",
+	"changeling-desc": "Um tema responsivo altamente flexível usando o Bootstrap 4",
+	"changeling-loggedin": "Você está logado como $1.",
+	"changeling-notloggedin": "Você não está logado.",
+	"changeling-newmessages": "Você tem novas mensagens.",
+	"changeling-nonewmessages": "Você não tem novas mensagens.",
+	"changeling-search-aria-label": "Ir para página",
+	"changeling-toggler": "Menu"
+}

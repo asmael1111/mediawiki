@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wisdom"
+		]
+	},
+	"changeling-loggedin": "$1 -ээр логин хийгээгүй байна.",
+	"changeling-notloggedin": "Та логин хийгээгүй байна",
+	"changeling-newmessages": "Танд шинэ мэдээ ирсэн байна.",
+	"changeling-nonewmessages": "Танд ямар мэдээ ирээгүй байна."
+}

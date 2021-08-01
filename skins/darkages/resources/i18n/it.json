@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Lorem Ipsum",
+			"Selven"
+		]
+	},
+	"skinname-darkages": "Camaleonte",
+	"darkages-desc": "Un tema reattivo e molto flessibile che usa Bootstrap 4",
+	"darkages-loggedin": "Hai effettuato l'accesso come $1.",
+	"darkages-notloggedin": "Non hai effettuato l'accesso",
+	"darkages-newmessages": "Hai nuovi messaggi.",
+	"darkages-nonewmessages": "Non hai nuovi messaggi.",
+	"darkages-toggler": "Menu"
+}

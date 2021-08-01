@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"changeling-desc": "د کامېليون پوښۍ",
+	"changeling-loggedin": "تاسې د $1 په توگه ننوتلئ.",
+	"changeling-notloggedin": "تاسې نه ياست ورننوتلي.",
+	"changeling-newmessages": "تاسې نوي پيغامونه لرئ.",
+	"changeling-nonewmessages": "تاسې نوي پيغامونه نه لرئ."
+}
