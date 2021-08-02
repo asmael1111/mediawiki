@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wisdom"
+		]
+	},
+	"brave-loggedin": "$1 -ээр логин хийгээгүй байна.",
+	"brave-notloggedin": "Та логин хийгээгүй байна",
+	"brave-newmessages": "Танд шинэ мэдээ ирсэн байна.",
+	"brave-nonewmessages": "Танд ямар мэдээ ирээгүй байна."
+}

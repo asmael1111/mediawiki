@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geonuch"
+		]
+	},
+	"skinname-brave": "คาเมเลียน",
+	"brave-desc": "สกินคาเมเลียน",
+	"brave-loggedin": "คุณเข้าสู่ระบบในชื่อ $1",
+	"brave-notloggedin": "คุณยังไม่ได้เข้าสู่ระบบ",
+	"brave-newmessages": "คุณมีสารใหม่",
+	"brave-nonewmessages": "คุณยังไม่มีสารใหม่"
+}

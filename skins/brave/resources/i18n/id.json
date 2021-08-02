@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya",
+			"Daud I.F. Argana",
+			"Diki Ananta",
+			"Sumbukompor"
+		]
+	},
+	"skinname-brave": "Bunglon",
+	"brave-desc": "Kulit responsif yang sangat fleksibel menggunakan Bootstrap 4",
+	"brave-loggedin": "Anda telah masuk log sebagai $1.",
+	"brave-notloggedin": "Anda belum masuk log",
+	"brave-newmessages": "Anda memiliki pesan baru.",
+	"brave-nonewmessages": "Anda tidak memiliki pesan baru.",
+	"brave-search-aria-label": "Tuju ke halaman"
+}

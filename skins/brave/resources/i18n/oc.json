@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"brave-desc": "L’aparéncia Cameleon.",
+	"brave-loggedin": "Sètz connectat en tant que $1.",
+	"brave-notloggedin": "Sètz pas connectat.",
+	"brave-newmessages": "Avètz de messatges novèls",
+	"brave-nonewmessages": "Avètz pas cap de messatges novèls."
+}

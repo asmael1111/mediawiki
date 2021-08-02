@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"Tacsipacsi"
+		]
+	},
+	"skinname-brave": "Kaméleon",
+	"brave-desc": "Egy rendkívül rugalmas alkalmazkodó felület Bootstrap 4-gyel",
+	"brave-loggedin": "Be vagy jelentkezve $1 néven.",
+	"brave-notloggedin": "Nem vagy bejelentkezve.",
+	"brave-newmessages": "Új üzeneteid vannak.",
+	"brave-nonewmessages": "Nincsenek új üzeneteid."
+}

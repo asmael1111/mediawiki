@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Robby",
+			"Shirayuki",
+			"Stephan Gambke",
+			"Umherirrender"
+		]
+	},
+	"skinname-brave": "{{Optional}}\nThe name of this skin",
+	"brave-desc": "{{desc|name=Brave|url=https://www.mediawiki.org/wiki/Skin:Brave}}",
+	"brave-loggedin": "Text shown, when the user is logged in. Parameters:\n* $1 - username\nSee also:\n* {{msg-mw|Brave-notloggedin}}",
+	"brave-notloggedin": "Text shown, when the user is not logged in.\n\nSee also:\n* {{msg-mw|Brave-loggedin}}",
+	"brave-newmessages": "Text shown, when the user has new messages.\n\nSee also:\n* {{msg-mw|Brave-nonewmessages}}",
+	"brave-nonewmessages": "Text shown, when the user has no new messages.\n\nSee also:\n* {{msg-mw|Brave-newmessages}}",
+	"brave-search-aria-label": "ARIA label for the search bar button.",
+	"brave-toggler": "Text for the NavbarHorizontal toggler button.\n{{identical|Menu}}"
+}

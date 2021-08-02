@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sagan",
+			"Рустам Нурыев"
+		]
+	},
+	"brave-desc": "Brave биҙәү темаһы.",
+	"brave-loggedin": "Һеҙ $1 булып танылғанһығыҙ.",
+	"brave-notloggedin": "Һеҙ танылмағанһығыҙ.",
+	"brave-newmessages": "Һеҙгә яңы хәбәрҙәр бар",
+	"brave-nonewmessages": "Һеҙгә яңы хәбәрҙәр юҡ."
+}

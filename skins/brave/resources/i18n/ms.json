@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aviator"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Rupa Brave",
+	"brave-loggedin": "Anda telah log masuk sebagai $1.",
+	"brave-notloggedin": "Anda belum log masuk",
+	"brave-newmessages": "Anda mempunyai pesanan baru.",
+	"brave-nonewmessages": "Anda tidak mempunyai pesanan baru."
+}

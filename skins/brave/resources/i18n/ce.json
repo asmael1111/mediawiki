@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Bootstrap 4 лелош чӀогӀа говза тема",
+	"brave-loggedin": "Ахьа болх беш бу $1 санна.",
+	"brave-notloggedin": "Системин довзийтар",
+	"brave-newmessages": "Хьуна кхаьчна керла хаам.",
+	"brave-nonewmessages": "Хьан бац керла хаам.",
+	"brave-search-aria-label": "АгӀонан дехьадала"
+}

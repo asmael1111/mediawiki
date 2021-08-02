@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Nimrod Rak",
+			"Steeve815",
+			"YaronSh"
+		]
+	},
+	"skinname-brave": "זיקית",
+	"brave-desc": "מעטפת גמישה ומסתגלת בעזרת Bootstrap 4",
+	"brave-loggedin": "נכנסת בשם $1.",
+	"brave-notloggedin": "לא נכנסת",
+	"brave-newmessages": "יש לך הודעות חדשות",
+	"brave-nonewmessages": "אין לך הודעות חדשות.",
+	"brave-search-aria-label": "מעבר לדף",
+	"brave-toggler": "תפריט"
+}

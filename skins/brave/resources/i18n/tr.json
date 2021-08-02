@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Hedda",
+			"Sayginer"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Bootstrap 4 kullanarak oldukça esnek ve hassas bir görünüm",
+	"brave-loggedin": "$1 olarak oturum açtınız.",
+	"brave-notloggedin": "Oturum açmadınız.",
+	"brave-newmessages": "Yeni mesajınız var.",
+	"brave-nonewmessages": "Yeni mesajınız yok.",
+	"brave-search-aria-label": "Sayfaya git",
+	"brave-toggler": "Menü"
+}

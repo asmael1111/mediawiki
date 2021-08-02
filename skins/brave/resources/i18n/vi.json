@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"skinname-brave": "Tắc kè hoa",
+	"brave-desc": "Giao diện Tắc kè hoa",
+	"brave-loggedin": "Bạn đã đăng nhập với tên $1.",
+	"brave-notloggedin": "Bạn chưa đăng nhập",
+	"brave-newmessages": "Bạn có tin nhắn mới.",
+	"brave-nonewmessages": "Bạn không có tin nhắn mới."
+}

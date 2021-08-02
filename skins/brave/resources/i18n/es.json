@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"DannyS712",
+			"Fitoschido"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "La apariencia Brave.",
+	"brave-loggedin": "Has accedido como $1.",
+	"brave-notloggedin": "No has accedido",
+	"brave-newmessages": "Tienes mensajes nuevos.",
+	"brave-nonewmessages": "No tienes mensajes nuevos.",
+	"brave-search-aria-label": "Ir a la página",
+	"brave-toggler": "Menú"
+}

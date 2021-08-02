@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"skinname-brave": "Kameleono",
+	"brave-desc": "La etoso Kameleono",
+	"brave-loggedin": "Vi ensalutis kiel $1.",
+	"brave-notloggedin": "Vi ne ensalutis.",
+	"brave-newmessages": "Vi havas novajn mesaĝojn.",
+	"brave-nonewmessages": "Vi ne havas novajn mesaĝojn.",
+	"brave-search-aria-label": "Iri al paĝo"
+}

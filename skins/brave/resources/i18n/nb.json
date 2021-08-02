@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fredrilj",
+			"Jon Harald Søby"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "En meget fleksibel drakt som bruker Bootstrap 4",
+	"brave-loggedin": "Du er logget inn som $1.",
+	"brave-notloggedin": "Du er ikke logget inn.",
+	"brave-newmessages": "Du har nye meldinger.",
+	"brave-nonewmessages": "Du har ingen nye meldinger.",
+	"brave-search-aria-label": "Gå til side",
+	"brave-toggler": "Meny"
+}

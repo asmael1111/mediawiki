@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"FarsiNevis",
+			"Reza1615"
+		]
+	},
+	"skinname-brave": "آفتاب‌پرست",
+	"brave-desc": "پوستهٔ آفتاب‌پرست",
+	"brave-loggedin": "شما به‌عنوان  $1 وارد شده‌اید.",
+	"brave-notloggedin": "شما وارد نشده‌ايد.",
+	"brave-newmessages": "پیام‌های تازه‌ای دارید.",
+	"brave-nonewmessages": "پیام تازه‌ای ندارید.",
+	"brave-search-aria-label": "برو به صفحهٔ"
+}

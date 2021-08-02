@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"brave-desc": "Brave išvaizda",
+	"brave-loggedin": "Jūs esate prisijungęs kaip $1.",
+	"brave-notloggedin": "Jūs esate neprisijungęs.",
+	"brave-newmessages": "Jūs turite naujų žinučių.",
+	"brave-nonewmessages": "Jūs neturite naujų pranešimų."
+}

@@ -1,0 +1,29 @@
+//
+// Styling for the SearchBar
+//
+// This file is part of the MediaWiki skin Brave.
+// @copyright 2013 - 2019, Stephan Gambke, GNU General Public License, version 3 (or any later version)
+//
+// @since 2.0
+
+.p-search {
+
+	width: 100%;
+
+	@include media-breakpoint-up( md ) {
+		width: auto;
+	}
+
+	.searchGoButton, .mw-searchButton {
+	
+	@extend .btn;	
+	@extend .btn-outline-dark:hover; // FIXME: Should this be ".btn-secondary"? Or some self-defined button style?
+		
+
+		 border: {
+			right-width: 0;
+			left-width: 0;
+		} 
+
+	}
+}

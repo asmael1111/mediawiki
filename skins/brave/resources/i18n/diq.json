@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi",
+			"Gorizon",
+			"Kumkumuk",
+			"Mirzali",
+			"Orbot707"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Bootstrap 4 gureynayışiya xeylê namnaye u cesasyew asayış",
+	"brave-loggedin": "$1 nameya şıma ronıştış akerd o.",
+	"brave-notloggedin": "Şıma ronıştış nêakerd o.",
+	"brave-newmessages": "Şımaré mesaco newe esto",
+	"brave-nonewmessages": "Şımaré mesaco newe çıni yo",
+	"brave-search-aria-label": "Şo pele"
+}

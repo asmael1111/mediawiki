@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khaled",
+			"Meno25",
+			"ديفيد"
+		]
+	},
+	"skinname-brave": "حرباء",
+	"brave-desc": "واجهة مرنة جدا باستخدام Bootstrap 4",
+	"brave-loggedin": "تم تسجيل دخولك كـ $1.",
+	"brave-notloggedin": "لم تسجل الدخول.",
+	"brave-newmessages": "لديك رسالة جديدة.",
+	"brave-nonewmessages": "ليست لديك رسائل جديدة.",
+	"brave-search-aria-label": "انتقل إلى صفحة"
+}

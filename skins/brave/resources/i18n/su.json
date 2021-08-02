@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kandar",
+			"Uchup19"
+		]
+	},
+	"skinname-brave": "Londok",
+	"brave-desc": "Kulit Londok.",
+	"brave-loggedin": "Anjeun asup log salaku $1.",
+	"brave-notloggedin": "Anjeun can asup log",
+	"brave-newmessages": "Aya obrolan anyar.",
+	"brave-nonewmessages": "Taya obrolan anyar."
+}

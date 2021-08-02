@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98",
+			"Siebrand",
+			"Sjoerddebruin"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Het uiterlijk Brave",
+	"brave-loggedin": "U bent aangemeld als $1 .",
+	"brave-notloggedin": "U bent niet aangemeld",
+	"brave-newmessages": "U hebt nieuwe berichten.",
+	"brave-nonewmessages": "U hebt geen nieuwe berichten.",
+	"brave-search-aria-label": "Naar pagina gaan"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "El tema Brave.",
+	"brave-loggedin": "Aniciasti sesión como $1.",
+	"brave-notloggedin": "Nun aniciasti sesión",
+	"brave-newmessages": "Tienes mensaxes nuevos.",
+	"brave-nonewmessages": "Nun tienes mensaxes nuevos.",
+	"brave-search-aria-label": "Dir a páxina"
+}

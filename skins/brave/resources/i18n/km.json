@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"brave-loggedin": "អ្នកកំពុងកត់ឈ្មោះចូលជា $1។",
+	"brave-notloggedin": "អ្នកមិនទាន់កត់ឈ្មោះចូលទេ។",
+	"brave-newmessages": "អ្នកមានសារថ្មីៗ។",
+	"brave-nonewmessages": "អ្នកគ្មានសារថ្មីៗទេ។"
+}

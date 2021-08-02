@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Um tema de resposta rápida e altamente flexível que usa Bootstrap 4",
+	"brave-loggedin": "Sessão iniciada como $1.",
+	"brave-notloggedin": "Não tem sessão iniciada",
+	"brave-newmessages": "Tem novas mensagens.",
+	"brave-nonewmessages": "Não tem novas mensagens.",
+	"brave-search-aria-label": "Ir para a página"
+}

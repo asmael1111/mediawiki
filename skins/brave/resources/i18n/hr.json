@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bugoslav"
+		]
+	},
+	"brave-desc": "Visokoprilagodljiv izgled s promjenjivim (interaktivnim) odzivom koji rabi Bootstrap 4 (Brave)",
+	"brave-loggedin": "Prijavljeni ste pod suradničkim imenom $1.",
+	"brave-notloggedin": "Trenutačno niste prijavljeni.",
+	"brave-newmessages": "Imate nove poruke.",
+	"brave-nonewmessages": "Trenutačno nemate novih poruka."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vahe Gharakhanyan"
+		]
+	},
+	"brave-loggedin": "Դուք մտել եք որպես $1:",
+	"brave-notloggedin": "Դուք չեք մտել համակարգ:",
+	"brave-newmessages": "Դուք նոր ուղերձներ ունեք:",
+	"brave-nonewmessages": "Դուք նոր ուղերձներ չունեք:"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giannaras99",
+			"Glavkos",
+			"Nikosguard"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Ένα εξαιρετικά ευέλικτο Θέμα εμφάνισης που ανταποκρίνεται χρησιμοποιώντας το Bootstrap 4.",
+	"brave-loggedin": "Έχετε συνδεθεί ως $1.",
+	"brave-notloggedin": "Δεν έχετε συνδεθεί",
+	"brave-newmessages": "Έχετε νέα μηνύματα.",
+	"brave-nonewmessages": "Δεν έχετε νέα μηνύματα.",
+	"brave-toggler": "Μενού"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"skinname-brave": "Kameleon",
+	"brave-desc": "Gwisk Kameleon",
+	"brave-loggedin": "Kevreet oc'h evel $1.",
+	"brave-notloggedin": "N'hoc'h ket kevreet.",
+	"brave-newmessages": "Kemennadennoù nevez hoc'h eus.",
+	"brave-nonewmessages": "N'hoc'h eus kemennadenn nevez ."
+}

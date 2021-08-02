@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm",
+			"Strainu"
+		]
+	},
+	"skinname-brave": "Cameleon",
+	"brave-desc": "Aspectul Cameleon",
+	"brave-loggedin": "V-ați autentificat ca $1.",
+	"brave-notloggedin": "Nu v-ați autentificat.",
+	"brave-newmessages": "Aveți mesaje noi.",
+	"brave-nonewmessages": "Nu aveți mesaje noi."
+}

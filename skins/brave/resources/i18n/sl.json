@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"brave-desc": "Zelo prilagodljiva odzivna preobleka, ki uporablja Bootstrap 4",
+	"brave-loggedin": "Prijavljeni ste kot $1.",
+	"brave-notloggedin": "Niste prijavljeni.",
+	"brave-newmessages": "Imate nova sporočila.",
+	"brave-nonewmessages": "Nimate novih sporočil."
+}

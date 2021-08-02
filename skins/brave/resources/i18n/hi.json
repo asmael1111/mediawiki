@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic",
+			"Siddhartha Ghai"
+		]
+	},
+	"skinname-brave": "केमेलोन",
+	"brave-desc": "कैमिलियन (गिरगिट) त्वचा",
+	"brave-loggedin": "आप $1 खाते में लॉग्ड इन हैं।",
+	"brave-notloggedin": "आप लॉग्ड इन नहीं हैं।",
+	"brave-newmessages": "आपके लिए नए सन्देश हैं।",
+	"brave-nonewmessages": "आपके लिए कोई नए सन्देश नहीं हैं।"
+}

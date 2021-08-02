@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ерней",
+			"Ильнар"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Brave күренеше бизәлеше.",
+	"brave-loggedin": "Сез $1 булып кергәнсез.",
+	"brave-notloggedin": "Сез системага кермәгәнсез.",
+	"brave-newmessages": "Сезнең яңа хәбәрләгез бар.",
+	"brave-nonewmessages": "Сезнең яңа хәбәрләрегез юк."
+}

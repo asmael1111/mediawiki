@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"brave-desc": "Brave útsjóndin",
+	"brave-loggedin": "Tú ert innritað/ur sum $1.",
+	"brave-notloggedin": "Tú ert ikki innritað/ur.",
+	"brave-newmessages": "Tú hevur nýggj boð.",
+	"brave-nonewmessages": "Tú hevur ongi nýggj boð."
+}

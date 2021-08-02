@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"skinname-brave": "Камелеон",
+	"brave-desc": "Мошне прилагодливо и одѕивно руво што користи Bootstrap 4",
+	"brave-loggedin": "Најавени сте како $1.",
+	"brave-notloggedin": "Не сте најавени",
+	"brave-newmessages": "Имате нови пораки",
+	"brave-nonewmessages": "Немате нови пораки.",
+	"brave-search-aria-label": "Оди на страница",
+	"brave-toggler": "Мени"
+}

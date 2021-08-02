@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftab1995",
+			"Aftabuzzaman",
+			"আজিজ",
+			"আফতাবুজ্জামান"
+		]
+	},
+	"brave-desc": "বহুরূপী আবরণ",
+	"brave-loggedin": "আপনি $1 হিসাবে প্রবেশ করেছেন।",
+	"brave-notloggedin": "আপনি প্রবেশ করেন নি",
+	"brave-newmessages": "আপনার নতুন বার্তা এসেছে।",
+	"brave-nonewmessages": "আপনার কাছে কোনও নতুন বার্তা নেই।"
+}

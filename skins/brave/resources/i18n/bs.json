@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Palapa",
+			"Srdjan m",
+			"Srđan"
+		]
+	},
+	"skinname-brave": "Kameleon",
+	"brave-desc": "Tema \"Kameleon\"",
+	"brave-loggedin": "Prijavljeni ste kao $1.",
+	"brave-notloggedin": "Niste prijavljeni.",
+	"brave-newmessages": "Imate nove poruke.",
+	"brave-nonewmessages": "Nemate nove poruke."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"skinname-brave": "Bunglon",
+	"brave-desc": "Ules bunglon",
+	"brave-loggedin": "Panjenengan mlebu log minangka $1.",
+	"brave-notloggedin": "Panjenengan durung mlebu log",
+	"brave-newmessages": "Panjenengan éntuk layang anyar.",
+	"brave-nonewmessages": "Panjenengan ora duwé layang anyar."
+}

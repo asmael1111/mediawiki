@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "A aparencia Brave.",
+	"brave-loggedin": "Está conectado como $1.",
+	"brave-notloggedin": "Non está conectado.",
+	"brave-newmessages": "Ten mensaxes novas.",
+	"brave-nonewmessages": "Non ten mensaxes novas."
+}

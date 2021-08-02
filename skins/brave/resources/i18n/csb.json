@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"skinname-brave": "Kaméleòn",
+	"brave-desc": "Skórka Kaméleòn",
+	"brave-loggedin": "Jes wlogòwóny jakno $1.",
+	"brave-notloggedin": "Nie jes wlogòwóny",
+	"brave-newmessages": "Môsz nowé wiadła",
+	"brave-nonewmessages": "Nié môsz nowich wiadłów"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Un apparentia reactive e multo flexibile que usa Bootstrap 4",
+	"brave-loggedin": "Tu ha aperite session como $1.",
+	"brave-notloggedin": "Tu non ha aperite session",
+	"brave-newmessages": "Tu ha nove messages.",
+	"brave-nonewmessages": "Tu non ha nove messages.",
+	"brave-search-aria-label": "Vader al pagina",
+	"brave-toggler": "Menu"
+}

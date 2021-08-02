@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"skinname-brave": "Kamelljón",
+	"brave-desc": "Kamelljón-skinnið",
+	"brave-loggedin": "Þú ert skráð/ur inn sem $1",
+	"brave-notloggedin": "Þú ert ekki skráð/ur inn.",
+	"brave-newmessages": "Þú átt ný skilaboð.",
+	"brave-nonewmessages": "Þú átt engin ný skilaboð."
+}

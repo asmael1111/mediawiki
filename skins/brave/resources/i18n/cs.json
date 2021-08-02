@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaroslav Cerny",
+			"Mormegil"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Velmi pružný responzivní vzhled používající Bootstrap 4",
+	"brave-loggedin": "Jste {{GENDER:|přihlášen|přihlášena|přihlášeni}} jako $1.",
+	"brave-notloggedin": "Nejste přihlášeni",
+	"brave-newmessages": "Máte nové zprávy.",
+	"brave-nonewmessages": "Nemáte žádné nové zprávy.",
+	"brave-search-aria-label": "Jít na stránku"
+}

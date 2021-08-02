@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "'Nu skin assaije flessibbele e responsive ausanne Bootstrap 4",
+	"brave-loggedin": "Tu è trasute cumme a $1.",
+	"brave-notloggedin": "Non gè trasute.",
+	"brave-newmessages": "Tìne 'nu messàgge nuève.",
+	"brave-nonewmessages": "Non ge tìne messàgge nuève.",
+	"brave-search-aria-label": "Veje 'a pàgene",
+	"brave-toggler": "Menù"
+}

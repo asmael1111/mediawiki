@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"skinname-brave": "Bunglon",
+	"brave-desc": "Kules résponsip sané sanget pléksibel nganggén Bootstrap 4",
+	"brave-loggedin": "Ida sampun manjing log manados $1.",
+	"brave-notloggedin": "Ida durung manjing log",
+	"brave-newmessages": "Ragané madué séwala anyar",
+	"brave-nonewmessages": "Ragané nénten madué séwala anyar.",
+	"brave-search-aria-label": "Nuju kaca"
+}

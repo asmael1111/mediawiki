@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"2nd-player",
+			"Shirayuki",
+			"SkyDaisy9",
+			"Yusuke1109"
+		]
+	},
+	"skinname-brave": "カメレオン",
+	"brave-desc": "Bootstrap 4 を使用した柔軟性の高いレスポンシブ外装",
+	"brave-loggedin": "$1 としてログインしています。",
+	"brave-notloggedin": "ログインしていません。",
+	"brave-newmessages": "新着メッセージがあります。",
+	"brave-nonewmessages": "新しいメッセージはありません。",
+	"brave-search-aria-label": "ページへ移動"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"HalanTul"
+		]
+	},
+	"brave-desc": "Brave.",
+	"brave-loggedin": "$1 аатынан киирбиккин.",
+	"brave-notloggedin": "Бэлиэ-аатынан киирэ иликкин.",
+	"brave-newmessages": "Эйиэхэ саҥа сурук кэлбит.",
+	"brave-nonewmessages": "Саҥа сурук кэлэ илик."
+}

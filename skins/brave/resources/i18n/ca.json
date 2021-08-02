@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Fitoschido",
+			"Jmarchn",
+			"Toniher"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Una aparença sensible i altament flexible que utilitza Bootstrap 4.",
+	"brave-loggedin": "Esteu connectat com a $1.",
+	"brave-notloggedin": "No esteu connectat.",
+	"brave-newmessages": "Teniu missatges nous.",
+	"brave-nonewmessages": "No teniu missatges nous."
+}

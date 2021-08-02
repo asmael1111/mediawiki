@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"brave-desc": "The Brave skin.",
+	"brave-loggedin": "Ye'r loggit in aes $1.",
+	"brave-notloggedin": "Ye'r no loggit in",
+	"brave-newmessages": "Ye hae new messages.",
+	"brave-nonewmessages": "Ye'v nae new messages."
+}

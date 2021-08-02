@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"!Silent",
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad",
+			"Felipe L. Ewald",
+			"Jaideraf"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Um tema responsivo altamente flexível usando o Bootstrap 4",
+	"brave-loggedin": "Você está logado como $1.",
+	"brave-notloggedin": "Você não está logado.",
+	"brave-newmessages": "Você tem novas mensagens.",
+	"brave-nonewmessages": "Você não tem novas mensagens.",
+	"brave-search-aria-label": "Ir para página",
+	"brave-toggler": "Menu"
+}

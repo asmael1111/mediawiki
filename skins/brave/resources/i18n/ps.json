@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"brave-desc": "د کامېليون پوښۍ",
+	"brave-loggedin": "تاسې د $1 په توگه ننوتلئ.",
+	"brave-notloggedin": "تاسې نه ياست ورننوتلي.",
+	"brave-newmessages": "تاسې نوي پيغامونه لرئ.",
+	"brave-nonewmessages": "تاسې نوي پيغامونه نه لرئ."
+}

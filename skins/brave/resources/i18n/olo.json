@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"brave-loggedin": "Olet kirjutannuhes käyttäjänny $1.",
+	"brave-notloggedin": "Et ole kirjutannuhes.",
+	"brave-newmessages": "Sinul on uuzii viestilöi.",
+	"brave-nonewmessages": "Sinul ei ole uuzii viestilöi."
+}

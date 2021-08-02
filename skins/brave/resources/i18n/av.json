@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazimagomedov",
+			"Omarov M."
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Bootstrap 4 хІалтІизабигун бугеб цІакъ хьетІулеб ва жаваб кьолеб тема",
+	"brave-loggedin": "Мун $1 гIадин жаниве лъугьана",
+	"brave-notloggedin": "Мун жаниве лъугьун гьечIо",
+	"brave-newmessages": "Духъе цIиял рисалатал руго.",
+	"brave-nonewmessages": "Духъе цIиял рисалатал гьечIо."
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton",
+			"Saederup92"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Temaet Brave",
+	"brave-loggedin": "Du er logget ind som $1.",
+	"brave-notloggedin": "Du er ikke logget ind.",
+	"brave-newmessages": "Du har nye beskeder.",
+	"brave-nonewmessages": "Du har ingen nye beskeder.",
+	"brave-search-aria-label": "Gå til side"
+}

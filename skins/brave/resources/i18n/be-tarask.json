@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Renessaince"
+		]
+	},
+	"skinname-brave": "Хамэлеон",
+	"brave-desc": "Высокагнуткая чуткая тэма афармленьня з выкарыстаньнем Bootstrap 4",
+	"brave-loggedin": "Вы ўвайшлі як $1.",
+	"brave-notloggedin": "Вы не ўвайшлі ў сыстэму",
+	"brave-newmessages": "Вы маеце новыя паведамленьні.",
+	"brave-nonewmessages": "У вас няма новых паведамленьняў.",
+	"brave-search-aria-label": "Перайсьці на старонку"
+}

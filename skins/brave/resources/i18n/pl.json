@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matma Rex",
+			"Rail",
+			"Railfail536",
+			"Ty221"
+		]
+	},
+	"skinname-brave": "Kameleon",
+	"brave-desc": "Wysoce elastyczna, responsywna skórka używająca technologii Bootstrap 4",
+	"brave-loggedin": "Jesteś zalogowany jako $1.",
+	"brave-notloggedin": "Nie jesteś zalogowany",
+	"brave-newmessages": "Masz nowe wiadomości.",
+	"brave-nonewmessages": "Nie masz nowych wiadomości.",
+	"brave-search-aria-label": "Przejdź do strony"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alex Khimich",
+			"DDPAT",
+			"Ата"
+		]
+	},
+	"skinname-brave": "Хамелеон",
+	"brave-desc": "Тема оформлення \"Хамелеон\"",
+	"brave-loggedin": "Ви увійшли як  $1.",
+	"brave-notloggedin": "Ви не ввійшли в систему",
+	"brave-newmessages": "У Вас є нові повідомлення.",
+	"brave-nonewmessages": "У вас немає нових повідомлень.",
+	"brave-search-aria-label": "Перейти на сторінку",
+	"brave-toggler": "Меню"
+}

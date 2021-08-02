@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Ny skin brave",
+	"brave-loggedin": "Tafiditra amin'ny anarana $1 ianao.",
+	"brave-notloggedin": "Tsy tafiditra ianao.",
+	"brave-newmessages": "Misy hafatra vaovao.",
+	"brave-nonewmessages": "Tsy misy hafatra vaovao."
+}

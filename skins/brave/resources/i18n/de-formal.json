@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"brave-loggedin": "Sie sind als $1 angemeldet.",
+	"brave-notloggedin": "Sie sind nicht angemeldet.",
+	"brave-newmessages": "Sie haben neue Nachrichten.",
+	"brave-nonewmessages": "Sie haben keine neuen Nachrichten.",
+	"brave-search-aria-label": "Gehen Sie zu Seite"
+}

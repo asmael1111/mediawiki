@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"StanProg"
+		]
+	},
+	"skinname-brave": "Хамелеон",
+	"brave-desc": "Много гъвкав и адаптивен облик използващ Bootstrap 4",
+	"brave-loggedin": "Вие сте влезли като $1.",
+	"brave-notloggedin": "Вие не сте влезли в системата",
+	"brave-newmessages": "Имате нови съобщения.",
+	"brave-nonewmessages": "Нямате нови съобщения.",
+	"brave-search-aria-label": "Към страницата"
+}

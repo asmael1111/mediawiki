@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"brave-loggedin": "तम $1का रूपमी लगइन होइरैछऽ।",
+	"brave-notloggedin": "तमले लगइन नाइँअरिराख्याऽ।",
+	"brave-newmessages": "तम खिलाइ नौला सन्देशअन छन।",
+	"brave-nonewmessages": "तम खिलाइ कोइ लै नौलो सन्देश नाइँथिन।"
+}

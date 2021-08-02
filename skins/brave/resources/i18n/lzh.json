@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"SolidBlock"
+		]
+	},
+	"brave-loggedin": "君登與$1。",
+	"brave-notloggedin": "未入簿。",
+	"brave-newmessages": "新訊",
+	"brave-nonewmessages": "無新訊"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Kly",
+			"Liuxinyu970226",
+			"Winston Sung"
+		]
+	},
+	"skinname-brave": "變色龍",
+	"brave-desc": "使用 Bootstrap 4 的高度彈性回應外觀",
+	"brave-loggedin": "您已登入為 $1。",
+	"brave-notloggedin": "您尚未登入",
+	"brave-newmessages": "您有新訊息。",
+	"brave-nonewmessages": "你沒有新訊息。",
+	"brave-search-aria-label": "前往頁面",
+	"brave-toggler": "選單"
+}

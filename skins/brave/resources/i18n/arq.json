@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda",
+			"Oldstoneage"
+		]
+	},
+	"brave-desc": "تصميم التاتا",
+	"brave-loggedin": "راك سجلت دخلتك كـ $1.",
+	"brave-notloggedin": "ما راكش مسجّل الدخول تاعك.",
+	"brave-newmessages": "عندك براوات جدُد.",
+	"brave-nonewmessages": "ما عندكش براوات جدُد."
+}

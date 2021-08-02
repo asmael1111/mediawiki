@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikel Ibaiba",
+			"Subi",
+			"Xabier Armendaritz"
+		]
+	},
+	"skinname-brave": "Kamaleoia",
+	"brave-desc": "Kamaleoiaren azala",
+	"brave-loggedin": "Saioa hasita duzu, $1 erabiltzaile izenarekin.",
+	"brave-notloggedin": "Ez duzu saioa hasi.",
+	"brave-newmessages": "Mezu berriak dituzu",
+	"brave-nonewmessages": "Ez duzu mezu berririk"
+}

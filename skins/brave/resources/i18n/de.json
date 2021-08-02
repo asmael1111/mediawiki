@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "Stellt eine flexible wie responsive, auf Twitter Bootstrap 4 gestützte, Benutzeroberfläche bereit",
+	"brave-loggedin": "Du bist als $1 angemeldet.",
+	"brave-notloggedin": "Du bist nicht angemeldet.",
+	"brave-newmessages": "Du hast neue Nachrichten.",
+	"brave-nonewmessages": "Du hast keine neuen Nachrichten.",
+	"brave-search-aria-label": "Gehe zu Seite"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10",
+			"MITO",
+			"McSalama",
+			"Nike",
+			"Pyscowicz"
+		]
+	},
+	"skinname-brave": "Kameleontti",
+	"brave-desc": "Erittäin mukautuva responsiivinen ulkoasu, joka käyttää Bootstrap 4:ää",
+	"brave-loggedin": "Olet kirjautunut sisään nimellä $1.",
+	"brave-notloggedin": "Et ole kirjautunut sisään.",
+	"brave-newmessages": "Sinulla on uusia viestejä.",
+	"brave-nonewmessages": "Sinulla ei ole uusia viestejä.",
+	"brave-search-aria-label": "Siirry sivulle",
+	"brave-toggler": "Valikko"
+}

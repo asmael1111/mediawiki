@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pippinu",
+			"Sarvaturi"
+		]
+	},
+	"brave-desc": "La peddi Brave",
+	"brave-loggedin": "Trasisti comu $1.",
+	"brave-notloggedin": "Nun trasisti.",
+	"brave-newmessages": "Hai missaggî novi.",
+	"brave-nonewmessages": "Nun hai nuddu missaggiu novu."
+}

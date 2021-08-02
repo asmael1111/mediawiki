@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"skinname-brave": "Kameleon",
+	"brave-loggedin": "Prijavljeni ste kao $1.",
+	"brave-notloggedin": "Niste prijavljeni",
+	"brave-newmessages": "Imate nove poruke",
+	"brave-nonewmessages": "Nemate nove poruke.",
+	"brave-search-aria-label": "Idi na stranicu"
+}

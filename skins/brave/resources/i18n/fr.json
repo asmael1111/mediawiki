@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf",
+			"Gomoko",
+			"Orlodrim",
+			"Verdy p",
+			"Wladek92"
+		]
+	},
+	"skinname-brave": "Caméléon",
+	"brave-desc": "Un habillage dynamique très flexible utilisant Bootstrap 4",
+	"brave-loggedin": "Vous êtes connecté{{GENDER:$1||e}} en tant que $1.",
+	"brave-notloggedin": "Vous n’êtes pas connecté(e).",
+	"brave-newmessages": "Vous avez de nouveaux messages.",
+	"brave-nonewmessages": "Vous n’avez aucun nouveau message.",
+	"brave-search-aria-label": "Aller à la page",
+	"brave-toggler": "Menu"
+}

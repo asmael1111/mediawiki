@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephan Gambke"
+		]
+	},
+	"skinname-brave": "Brave",
+	"brave-desc": "A highly flexible responsive skin using Bootstrap 4",
+	"brave-loggedin": "You are logged in as $1.",
+	"brave-notloggedin": "You are not logged in.",
+	"brave-newmessages": "You have new messages.",
+	"brave-nonewmessages": "You have no new messages.",
+	"brave-search-aria-label": "Go to page",
+	"brave-toggler": "Menu"
+}
