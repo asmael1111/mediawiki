@@ -85,9 +85,9 @@ class Brave extends SkinTemplate {
 		};
 
 		// set default skin layout
-		if ( DIRECTORY_SEPARATOR === '/' && $GLOBALS[ 'datBraveLayoutFile' ][0] !== '/' ) {
-			$GLOBALS[ 'datBraveLayoutFile' ] = $GLOBALS[ 'wgStyleDirectory' ] . '/brave/' .
-				$GLOBALS[ 'datBraveLayoutFile' ];
+		if ( DIRECTORY_SEPARATOR === '/' && $GLOBALS[ 'egBraveLayoutFile' ][0] !== '/' ) {
+			$GLOBALS[ 'egBraveLayoutFile' ] = $GLOBALS[ 'wgStyleDirectory' ] . '/brave/' .
+				$GLOBALS[ 'egBraveLayoutFile' ];
 		}
 	}
 
@@ -164,7 +164,7 @@ class Brave extends SkinTemplate {
 	 * @return string Path to layout file
 	 */
 	protected function getLayoutFilePath() {
-		return $GLOBALS[ 'datBraveLayoutFile' ];
+		return $GLOBALS[ 'cgBraveLayoutFile' ];
 	}
 
 	/**
@@ -172,6 +172,6 @@ class Brave extends SkinTemplate {
 	 * @return string Path to theme file
 	 */
 	protected function getThemeFilePath() {
-		return $GLOBALS[ 'datBraveThemeFile' ];
+		return $GLOBALS[ 'cgBraveThemeFile' ];
 	}
 }

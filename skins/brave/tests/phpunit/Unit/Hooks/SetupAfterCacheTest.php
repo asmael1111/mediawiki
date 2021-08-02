@@ -108,8 +108,8 @@ class SetupAfterCacheTest extends TestCase {
 		];
 
 		$configuration = [
-			'datBraveExternalStyleModules' => $mixedExternalStyleModules,
-			'datBraveThemeFile'            => $this->dummyExternalModule,
+			'cgBraveExternalStyleModules' => $mixedExternalStyleModules,
+			'cgBraveThemeFile'            => $this->dummyExternalModule,
 			'IP'                              => 'notTestingIP',
 			'wgScriptPath'                    => 'notTestingwgScriptPath',
 			'wgStyleDirectory'                => 'notTestingwgStyleDirectory',
@@ -147,7 +147,7 @@ class SetupAfterCacheTest extends TestCase {
 	//	];
 	//
 	//	$configuration = [
-	//		'datBraveExternalStyleModules' => $externalStyleModules,
+	//		'cgBraveExternalStyleModules' => $externalStyleModules,
 	//		'IP'                              => 'notTestingIP',
 	//		'wgScriptPath'                    => 'notTestingwgScriptPath',
 	//		'wgStyleDirectory'                => 'notTestingwgStyleDirectory',
@@ -193,7 +193,7 @@ class SetupAfterCacheTest extends TestCase {
 	//	];
 	//
 	//	$configuration = [
-	//		'datBraveExternalStyleVariables'=> $externalStyleVariables,
+	//		'cgBraveExternalStyleVariables'=> $externalStyleVariables,
 	//		'IP'                               => 'notTestingIP',
 	//		'wgScriptPath'                     => 'notTestingwgScriptPath',
 	//		'wgStyleDirectory'                 => 'notTestingwgStyleDirectory',
@@ -227,8 +227,8 @@ class SetupAfterCacheTest extends TestCase {
 	//		->getMock();
 	//
 	//	$configuration = [
-	//		'datBraveAvailableLayoutFiles'  => $availableLayoutFiles,
-	//		'datBraveLayoutFile'            => $defaultLayoutFile,
+	//		'cgBraveAvailableLayoutFiles'  => $availableLayoutFiles,
+	//		'cgBraveLayoutFile'            => $defaultLayoutFile,
 	//		'IP'                               => 'notTestingIP',
 	//		'wgScriptPath'                     => 'notTestingwgScriptPath',
 	//		'wgStyleDirectory'                 => 'notTestingwgStyleDirectory',
@@ -253,7 +253,7 @@ class SetupAfterCacheTest extends TestCase {
 	//
 	//	$this->assertEquals(
 	//		$expectedLayoutfile,
-	//		$configuration['datBraveLayoutFile']
+	//		$configuration['cgBraveLayoutFile']
 	//	);
 	//}
 
@@ -329,42 +329,42 @@ class SetupAfterCacheTest extends TestCase {
 
 		$provider[ ] = [
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 			],
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 			]
 		];
 
 		$provider[ ] = [
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 				'wgVisualEditorSupportedSkins'  => [ 'foo' ],
 			],
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 				'wgVisualEditorSupportedSkins'  => [ 'foo', 'brave' ],
 			]
 		];
 
 		$provider[ ] = [
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 				'wgVisualEditorSupportedSkins'  => [ 'foo', 'brave' ],
 			],
 			[
-				'datBraveEnableVisualEditor' => true,
+				'cgBraveEnableVisualEditor' => true,
 				'wgVisualEditorSupportedSkins'  => [ 'foo', 'brave' ],
 			]
 		];
 
 		$provider[ ] = [
 			[
-				'datBraveEnableVisualEditor' => false,
+				'cgBraveEnableVisualEditor' => false,
 				'wgVisualEditorSupportedSkins'  => [ 'brave', 'foo' => 'brave', 'foo' ],
 			],
 			[
-				'datBraveEnableVisualEditor' => false,
+				'cgBraveEnableVisualEditor' => false,
 				'wgVisualEditorSupportedSkins'  => [ 1 => 'foo' ],
 			]
 		];

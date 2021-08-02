@@ -23,11 +23,11 @@
 	"MessagesDirs": {
 		"Brave": "resources/i18n"
 	},
-	"config_prefix": "dat",
+	"config_prefix": "bnw",
 	"config": {
 		"BraveLayoutFile": {
 			"path": true,
-			"value": "layouts/standard.xml"
+			"value": "layouts/stickyhead_V2.xml"
 		},
 		"BraveThemeFile": {
 			"path": true,

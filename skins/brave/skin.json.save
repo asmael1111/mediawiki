@@ -23,7 +23,7 @@
 	"MessagesDirs": {
 		"Brave": "resources/i18n"
 	},
-	"config_prefix": "dat",
+	"config_prefix": "eg",
 	"config": {
 		"BraveLayoutFile": {
 			"path": true,
