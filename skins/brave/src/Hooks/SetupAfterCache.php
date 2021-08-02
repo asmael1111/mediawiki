@@ -107,9 +107,9 @@ class SetupAfterCache {
 	protected function registerCommonBootstrapModules() {
 		$this->bootstrapManager->addAllBootstrapModules();
 
-		if ( !empty( $this->configuration[ 'cgBraveThemeFile' ] ) ) {
+		if ( !empty( $this->configuration[ 'datBraveThemeFile' ] ) ) {
 			$this->bootstrapManager->addStyleFile(
-				$this->configuration[ 'cgBraveThemeFile' ], 'beforeVariables'
+				$this->configuration[ 'datBraveThemeFile' ], 'beforeVariables'
 			);
 		}
 
@@ -148,9 +148,9 @@ class SetupAfterCache {
 	}
 
 	protected function registerExternalScssModules() {
-		if ( $this->hasConfigurationOfTypeArray( 'cgBraveExternalStyleModules' ) ) {
+		if ( $this->hasConfigurationOfTypeArray( 'datBraveExternalStyleModules' ) ) {
 
-			foreach ( $this->configuration[ 'cgBraveExternalStyleModules' ]
+			foreach ( $this->configuration[ 'datBraveExternalStyleModules' ]
 				as $localFile => $position ) {
 
 				$config = $this->matchAssociativeElement( $localFile, $position );
@@ -162,9 +162,9 @@ class SetupAfterCache {
 	}
 
 	protected function registerExternalStyleVariables() {
-		if ( $this->hasConfigurationOfTypeArray( 'cgBraveExternalStyleVariables' ) ) {
+		if ( $this->hasConfigurationOfTypeArray( 'datBraveExternalStyleVariables' ) ) {
 
-			foreach ( $this->configuration[ 'cgBraveExternalStyleVariables' ] as $key => $value ) {
+			foreach ( $this->configuration[ 'datBraveExternalStyleVariables' ] as $key => $value ) {
 				$this->bootstrapManager->setScssVariable( $key, $value );
 			}
 		}
@@ -215,10 +215,10 @@ class SetupAfterCache {
 	protected function addBraveToVisualEditorSupportedSkins() {
 		// if Visual Editor is installed and there is a setting to enable or disable it
 		if ( $this->hasConfiguration( 'wgVisualEditorSupportedSkins' ) &&
-			$this->hasConfiguration( 'cgBraveEnableVisualEditor' ) ) {
+			$this->hasConfiguration( 'datBraveEnableVisualEditor' ) ) {
 
 			// if VE should be enabled
-			if ( $this->configuration[ 'cgBraveEnableVisualEditor' ] === true ) {
+			if ( $this->configuration[ 'datBraveEnableVisualEditor' ] === true ) {
 
 				// if Brave is not yet in the list of VE-enabled skins
 				if ( !in_array( 'brave', $this->configuration[ 'wgVisualEditorSupportedSkins' ] ) ) {
@@ -249,11 +249,11 @@ class SetupAfterCache {
 		$layout = $this->request->getVal( 'uselayout' );
 
 		if ( $layout !== null &&
-			$this->hasConfigurationOfTypeArray( 'cgBraveAvailableLayoutFiles' ) &&
-			array_key_exists( $layout, $this->configuration[ 'cgBraveAvailableLayoutFiles' ] ) ) {
+			$this->hasConfigurationOfTypeArray( 'datBraveAvailableLayoutFiles' ) &&
+			array_key_exists( $layout, $this->configuration[ 'datBraveAvailableLayoutFiles' ] ) ) {
 
-			$this->configuration[ 'cgBraveLayoutFile' ] =
-				$this->configuration[ 'cgBraveAvailableLayoutFiles' ][ $layout ];
+			$this->configuration[ 'datBraveLayoutFile' ] =
+				$this->configuration[ 'datBraveAvailableLayoutFiles' ][ $layout ];
 		}
 	}
 
@@ -266,7 +266,7 @@ class SetupAfterCache {
 					'zzz.ext.bootstrap.styles',
 				];
 
-				if ( $this->configuration[ 'cgBraveEnableExternalLinkIcons' ] === true ) {
+				if ( $this->configuration[ 'datBraveEnableExternalLinkIcons' ] === true ) {
 					array_unshift( $styles, 'mediawiki.skinning.content.externallinks' );
 				}
 

@@ -174,7 +174,7 @@ trigger an update of the style cache. There are two ways to do that:
    `\Bootstrap\BootstrapManager::getInstance()->addCacheTriggerFile( __DIR__ . '/your-file.scss' );`.
 
 3. Finally, you can set the following in your `LocalSettings.php` to disable
-   caching of SCSS styles completely: `$bnwScssCacheType = CACHE_NONE;`. This
+   caching of SCSS styles completely: `$egScssCacheType = CACHE_NONE;`. This
    should obviously never be done on a production site.    
 
 ## Enable external link icons

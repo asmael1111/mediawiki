@@ -7,7 +7,7 @@
 		"[https://professional.wiki/ Professional.Wiki]"
 	],
 	"version": "4.0.0",
-	"url": "https://www.mediawiki.org/wiki/Skin:Brave",
+	"url": "",
 	"descriptionmsg": "brave-desc",
 	"license-name": "GPL-3.0-or-later",
 	"requires": {
@@ -27,7 +27,7 @@
 	"config": {
 		"BraveLayoutFile": {
 			"path": true,
-			"value": "layouts/stickyhead_V2.xml"
+			"value": "layouts/stickyhead_v2.xml"
 		},
 		"BraveThemeFile": {
 			"path": true,

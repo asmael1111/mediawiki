@@ -119,7 +119,7 @@ Changes:
   link. This can be used to show an icon in front of a menu item.   
 * Remove button for fulltext search from [Searchbar].
 * Rename `$bnwBraveExternalLessVariables` to `$bnwBraveExternalStyleVariables`
-* New variable `$bnwScssCacheType`
+* New variable `$egScssCacheType`
 
 [ToolBox]: components.md#component-toolbox
 [LangLinks]: components.md#component-langlinks

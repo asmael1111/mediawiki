@@ -31,8 +31,8 @@ use Skins\Brave\BraveTemplate;
 /**
  * @uses \Skins\Brave\BraveTemplate
  *
- * @group skins-brave
- * @group skins-brave-unit
+ * @group skins-Brave
+ * @group skins-Brave-unit
  * @group mediawiki-databaseless
  *
  * @license   GPL-3.0-or-later
@@ -53,13 +53,13 @@ class BraveTemplateTest extends TestCase {
 	protected function setUp(): void {
 		parent::setUp();
 
-		$this->cgBraveLayoutFile = $GLOBALS['cgBraveLayoutFile'];
-		$this->cgBraveThemeFile = $GLOBALS['cgBraveThemeFile'];
+		$this->datBraveLayoutFile = $GLOBALS['datBraveLayoutFile'];
+		$this->datBraveThemeFile = $GLOBALS['datBraveThemeFile'];
 	}
 
 	protected function tearDown(): void {
-		$GLOBALS['cgBraveLayoutFile'] = $this->cgBraveLayoutFile;
-		$GLOBALS['cgBraveThemeFile'] = $this->cgBraveThemeFile;
+		$GLOBALS['datBraveLayoutFile'] = $this->datBraveLayoutFile;
+		$GLOBALS['datBraveThemeFile'] = $this->datBraveThemeFile;
 
 		parent::tearDown();
 	}
@@ -80,7 +80,7 @@ class BraveTemplateTest extends TestCase {
 	public function testInaccessibleLayoutFileThrowsExeception() {
 		$this->expectException( 'RuntimeException' );
 
-		$GLOBALS['cgBraveLayoutFile'] = 'setInaccessibleLayoutFile';
+		$GLOBALS['datBraveLayoutFile'] = 'setInaccessibleLayoutFile';
 
 		$skin = new Brave();
 

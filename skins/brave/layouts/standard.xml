@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-<?xml-model href="https://ProfessionalWiki.github.io/brave/schema/3.0/layout.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-This file is part of the MediaWiki skin Brave.
+<?xml-model href="https://ProfessionalWiki.github.io/chameleon/schema/3.0/layout.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+This file is part of the MediaWiki skin chameleon.
 
 @copyright 2013 - 2021, Stephan Gambke
 @license   GNU General Public License, version 3 (or any later version)
 
-The Brave skin is free software: you can redistribute it and/or modify it
+The chameleon skin is free software: you can redistribute it and/or modify it
 under the terms of the GNU General Public License as published by the Free
 Software Foundation, either version 3 of the License, or (at your option) any
 later version.
 
-The Brave skin is distributed in the hope that it will be useful, but
+The chameleon skin is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
 details.
