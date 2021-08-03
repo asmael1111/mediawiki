@@ -89,7 +89,7 @@ class Brave extends SkinTemplate {
 			$GLOBALS[ 'bnwBraveLayoutFile' ] = $GLOBALS[ 'wgStyleDirectory' ] . '/brave/' .
 				$GLOBALS[ 'bnwBraveLayoutFile' ];
 		}
-	}
+	} 
 
 	/**
 	 * @param OutputPage $out
